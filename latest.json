@@ -1,0 +1,14 @@
+{
+  "version": "v207",
+  "notes": "gh-CLI-Befehl im Release-Skript ergaenzt",
+  "platforms": {
+    "mac": {
+      "download_url": "https://github.com/Dane03/familyfinance-releases/releases/download/v207/familyfinance.zip",
+      "sha256": "0749752d3ec9aa36f5cb4486bbca20ab19cffc338a7b0ccc38e1d6b45047b1fb"
+    },
+    "windows": {
+      "download_url": "https://github.com/Dane03/familyfinance-releases/releases/download/v207/familyfinance-windows.zip",
+      "sha256": "8d5e45fbd3236c58ce196fab9c9b4611dde053f4548e3aedeefc0e0c1d0890d8"
+    }
+  }
+}
