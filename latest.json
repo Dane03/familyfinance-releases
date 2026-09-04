@@ -1,0 +1,16 @@
+{
+  "version": "v218",
+  "notes": "Vorsorge komplett neu: eigene Sidebar-Eintraege statt Tabs (Dashboard/Aufbau/Absicherung), neue Kennzahlen-Zeilen, echter Kapitalverlauf-Chart bis zur Rente",
+  "platforms": {
+    "mac": {
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v218.zip",
+      "sha256": "43b46d65e3948978c022af0ee24a033787a3dccd0619c5772c1b2bf8e4ef5728",
+      "upload_as": "familyfinance-v218.zip"
+    },
+    "windows": {
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v218.zip",
+      "sha256": "b5073d59192804e4347f3ecc834a79daf4c79c542cffd4d9c3b33e9bee277dec",
+      "upload_as": "familyfinance-windows-v218.zip"
+    }
+  }
+}
