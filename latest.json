@@ -1,16 +1,16 @@
 {
-  "version": "v215",
-  "notes": "TOTP als 2FA-Alternative, Zugangs-Recovery-Skript, PWA-Icon reagiert auf Theme, verschiebbare Kacheln in mehr Bereichen, Update-Pruefung vor Login",
+  "version": "v216",
+  "notes": "Farbkorrektur Nothing-Theme, Kartenraender bei Dark/Light/Apple, fehlende Ziehen-Icons ergaenzt, Einnahmen/Ausgaben immer wertbasiert sortiert (kein manuelles Umsortieren mehr), Chatbot kennt jetzt auch Vermoegen",
   "platforms": {
     "mac": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v215.zip",
-      "sha256": "93ff16f82abf32c291472f169716ef10be27a2228f908ce65a5fea9de6bda10d",
-      "upload_as": "familyfinance-v215.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v216.zip",
+      "sha256": "9086fc94dff992d26d284c59121449de3baf00eb22f9dc8a580b496ebb19f59d",
+      "upload_as": "familyfinance-v216.zip"
     },
     "windows": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v215.zip",
-      "sha256": "83e4b7d36c3ba6ce37ba735e0e41b6c24d619f0515cf085322ec938182a8e38a",
-      "upload_as": "familyfinance-windows-v215.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v216.zip",
+      "sha256": "d8e456eef271ef504741ab443a14bd3177f81d2a8b436287c6a76ae16a08c442",
+      "upload_as": "familyfinance-windows-v216.zip"
     }
   }
 }
