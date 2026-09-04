@@ -1,16 +1,16 @@
 {
-  "version": "v207",
-  "notes": "gh-CLI-Befehl im Release-Skript ergaenzt",
+  "version": "v210",
+  "notes": "Zusammenfassungs-Kacheln (Vermoegen, Verbindlichkeiten, Dashboard) brechen jetzt korrekt um statt sich zu quetschen",
   "platforms": {
     "mac": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v207.zip",
-      "sha256": "0749752d3ec9aa36f5cb4486bbca20ab19cffc338a7b0ccc38e1d6b45047b1fb",
-      "upload_as": "familyfinance-v207.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v210.zip",
+      "sha256": "adbcc9174d1d19f4c91c7501cae4664253782f10c6c25713b896aa89043be67c",
+      "upload_as": "familyfinance-v210.zip"
     },
     "windows": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v207.zip",
-      "sha256": "8d5e45fbd3236c58ce196fab9c9b4611dde053f4548e3aedeefc0e0c1d0890d8",
-      "upload_as": "familyfinance-windows-v207.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v210.zip",
+      "sha256": "3231abfd5c1afb3160e5c7a0ebb15a865d68cfe9ab4a8873679e677e25712e4c",
+      "upload_as": "familyfinance-windows-v210.zip"
     }
   }
 }
