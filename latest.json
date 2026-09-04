@@ -1,16 +1,16 @@
 {
-  "version": "v213",
-  "notes": "WICHTIG: Frueher ausgelieferte Mac-Pakete enthielten versehentlich den .git-Ordner mit unbereinigter Historie. Ab hier vollstaendig bereinigt und ohne Git-Ordner.",
+  "version": "v215",
+  "notes": "TOTP als 2FA-Alternative, Zugangs-Recovery-Skript, PWA-Icon reagiert auf Theme, verschiebbare Kacheln in mehr Bereichen, Update-Pruefung vor Login",
   "platforms": {
     "mac": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v213.zip",
-      "sha256": "c8cb6d0adfec37d2c961033e56ed64a216f6e27fd9c69f26c6387442e6fcf0d1",
-      "upload_as": "familyfinance-v213.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v215.zip",
+      "sha256": "93ff16f82abf32c291472f169716ef10be27a2228f908ce65a5fea9de6bda10d",
+      "upload_as": "familyfinance-v215.zip"
     },
     "windows": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v213.zip",
-      "sha256": "7c9ee1d5dfe85439c945ca868409ef0e9ed94918f03a2a8b8e93f7ceb8dd301d",
-      "upload_as": "familyfinance-windows-v213.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v215.zip",
+      "sha256": "83e4b7d36c3ba6ce37ba735e0e41b6c24d619f0515cf085322ec938182a8e38a",
+      "upload_as": "familyfinance-windows-v215.zip"
     }
   }
 }
