@@ -1,16 +1,16 @@
 {
-  "version": "v218",
-  "notes": "Vorsorge komplett neu: eigene Sidebar-Eintraege statt Tabs (Dashboard/Aufbau/Absicherung), neue Kennzahlen-Zeilen, echter Kapitalverlauf-Chart bis zur Rente",
+  "version": "v223",
+  "notes": "Umbau Schritt 4: Belege/Import in eigenes Modul (app.py von 4760 auf 1625 Zeilen, -66%) -- rein strukturell, alle 133 Routen unveraendert",
   "platforms": {
     "mac": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v218.zip",
-      "sha256": "43b46d65e3948978c022af0ee24a033787a3dccd0619c5772c1b2bf8e4ef5728",
-      "upload_as": "familyfinance-v218.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v223.zip",
+      "sha256": "3a5422aa0b2ca8232bace7e31928a299b0162601721b29636b6114850f42293c",
+      "upload_as": "familyfinance-v223.zip"
     },
     "windows": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v218.zip",
-      "sha256": "b5073d59192804e4347f3ecc834a79daf4c79c542cffd4d9c3b33e9bee277dec",
-      "upload_as": "familyfinance-windows-v218.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v223.zip",
+      "sha256": "1e0f13f178dc7cef7e786868744e3e27bb22c1928d4a26e1cd08c86635c2efc2",
+      "upload_as": "familyfinance-windows-v223.zip"
     }
   }
 }
