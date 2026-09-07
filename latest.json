@@ -1,16 +1,16 @@
 {
-  "version": "v224",
-  "notes": "Dynamische Zeitaufloesung in allen Verbrauchs-Charts (1 Mo=Tage, 3 Mo=Wochen, 12 Mo/YTD=Monate), neuer 12-Mo-Zeitraum, PV-Importer erkennt Tages-/Wochen-/Monatsberichte automatisch",
+  "version": "v227",
+  "notes": "WICHTIG: Tages-Import veraendert die Jahres-/Monatswerte nicht mehr. Echte Monatswerte haben immer Vorrang; Tagesdaten liefern nur die feine Ansicht und fuellen Monate ohne Monatswert.",
   "platforms": {
     "mac": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v224.zip",
-      "sha256": "a6a8453976f14611feca5955a6c99556cefbd88c16297850ee92d35328812906",
-      "upload_as": "familyfinance-v224.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v227.zip",
+      "sha256": "4f9b7b99dec56cc33a4cd3a08c82e3c752cf7992d4edeaf4ef44a802b30c9a01",
+      "upload_as": "familyfinance-v227.zip"
     },
     "windows": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v224.zip",
-      "sha256": "dc1e9b0c5ed5fd51e531d032013a09f8caae5c4f83baa0f09ba6ad276fd123df",
-      "upload_as": "familyfinance-windows-v224.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v227.zip",
+      "sha256": "a84b4a41eec48fed11ab9fd42038b7073582db3a52e0933ef49c9b0dfec7f2ab",
+      "upload_as": "familyfinance-windows-v227.zip"
     }
   }
 }
