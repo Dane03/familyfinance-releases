@@ -1,0 +1,16 @@
+{
+  "version": "v230",
+  "notes": "Weitere eingefrorene Kennzahlen behoben: PDF-Report, Dashboard-Uebersicht und Kostentrend nutzten teils noch die alte, nicht PV-bewusste Tagesrate; Vorsorge-Berechnung reagiert jetzt auch auf Einkommensaenderungen statt zwischengespeicherte Werte zu zeigen",
+  "platforms": {
+    "mac": {
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v230.zip",
+      "sha256": "8439e7302a3ca3b0ba246b859ad1c3de186ba06a75c149ae0719694ed116a652",
+      "upload_as": "familyfinance-v230.zip"
+    },
+    "windows": {
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v230.zip",
+      "sha256": "9f1ffa1f78c514ab7ba2df1d719ee2e8200a47a2130fe9aba3cd03cfac4b1f94",
+      "upload_as": "familyfinance-windows-v230.zip"
+    }
+  }
+}
