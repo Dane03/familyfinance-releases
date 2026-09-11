@@ -1,0 +1,16 @@
+{
+  "version": "v231",
+  "notes": "Mehrfache Zaehlerablesung am selben Tag ueberschreibt statt Fehler zu werfen, Vertragsablauf bei Gas/Wasser/Strombezug ergaenzt, Entwaesserungsgebuehr fuer Wasser (an sieben Berechnungsstellen), Chart-Breite auf iOS vereinheitlicht",
+  "platforms": {
+    "mac": {
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v231.zip",
+      "sha256": "ace04d4eac1587ca343a59875f6b426083fefa78ace40c3309f089b503017a20",
+      "upload_as": "familyfinance-v231.zip"
+    },
+    "windows": {
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v231.zip",
+      "sha256": "bdb5b484f755d41c646eb49f241426cdf443b5c9bea2fafddb76af85e62e4a05",
+      "upload_as": "familyfinance-windows-v231.zip"
+    }
+  }
+}
