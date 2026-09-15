@@ -1,16 +1,16 @@
 {
-  "version": "v232",
-  "notes": "Eigentliche Ursache der unterschiedlichen Chart-Breiten auf iOS gefunden: .chart-grid erzwang eine Mindestbreite von 480px, was auf Telefonen (360-430px) zum Ueberlaufen ueber den Bildschirmrand fuehrte. Mobile Regel ergaenzt, alle Karten jetzt einheitlich",
+  "version": "v233",
+  "notes": "Sitzungs-Gueltigkeit von 14 Tagen auf 12 Stunden verkuerzt -- das reine Session-Cookie allein reicht bei installierten PWAs auf iOS nicht zuverlaessig aus, da iOS den WebView-Prozess beim Schliessen oft nur pausiert statt beendet",
   "platforms": {
     "mac": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v232.zip",
-      "sha256": "9c45bd95e27675923b91899fe7acb8499241a76ff662bad48b9f6d45d748b100",
-      "upload_as": "familyfinance-v232.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v233.zip",
+      "sha256": "d50a2abecb424a086a268bf02cd3631041a00dd999c925c5607d3fb1b77813c3",
+      "upload_as": "familyfinance-v233.zip"
     },
     "windows": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v232.zip",
-      "sha256": "a0fa1455b66c4b32fccce9dec77b79f523c4dc9decbc8901311c06f2d08cfd8e",
-      "upload_as": "familyfinance-windows-v232.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v233.zip",
+      "sha256": "4e42eb4fe105dbcda7cf1080f2dc0c95a56dae7ab963be1c6177fe661d22321d",
+      "upload_as": "familyfinance-windows-v233.zip"
     }
   }
 }
