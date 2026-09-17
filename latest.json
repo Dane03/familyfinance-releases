@@ -1,0 +1,16 @@
+{
+  "version": "v236",
+  "notes": "Verbindlichkeiten-Zeile ueberarbeitet: Betragsfeld zeigt vollen Wert mit sichtbarem Euro-Suffix, Zinsbindung ergaenzt, doppelte Anbieter-Anzeige vermieden wenn bereits im Label enthalten",
+  "platforms": {
+    "mac": {
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v236.zip",
+      "sha256": "9442996ddc2ab8c47f5d19e5e4afa9db510f4ecdc7f68ece5a490edd3895e40d",
+      "upload_as": "familyfinance-v236.zip"
+    },
+    "windows": {
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v236.zip",
+      "sha256": "ec58ee42e847594d78f548a837c0dfe51cf67d551d0fa8a4f3779a922cfcb96f",
+      "upload_as": "familyfinance-windows-v236.zip"
+    }
+  }
+}
