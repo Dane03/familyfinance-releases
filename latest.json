@@ -1,0 +1,16 @@
+{
+  "version": "v235",
+  "notes": "Geldwerte-Schema (9.999,99 EUR) in 13 bisher abweichenden Eingabefeldern und PDF-Report vereinheitlicht; Temperaturlinie im Verbrauchs-Chart nicht mehr auf -5..25 Grad begrenzt, skaliert jetzt dynamisch und schneidet keine Extremwerte mehr ab",
+  "platforms": {
+    "mac": {
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v235.zip",
+      "sha256": "14cf9f7d51238d3559255f37d7284f5ded6d1ed87b32eadc16fea8852eebba62",
+      "upload_as": "familyfinance-v235.zip"
+    },
+    "windows": {
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v235.zip",
+      "sha256": "81a383a9127e2004d0afab8b25ec921b8eaae5b7a450b981dc074b326e725ff8",
+      "upload_as": "familyfinance-windows-v235.zip"
+    }
+  }
+}
