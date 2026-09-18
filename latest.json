@@ -1,0 +1,16 @@
+{
+  "version": "v243",
+  "notes": "Beleg-Betrachter zeigte HEIC-Fotos (Standardformat der iPhone-Kamera) nur als leere Seite mit Fehlersymbol, da ein iframe dieses Format nicht rendern kann. Wird jetzt fuer die Inline-Ansicht automatisch zu JPEG konvertiert, Download bleibt im Original-HEIC. Gleiche Ursache auch bei der Tesseract-Texterkennung (v.a. Windows ohne Vision-Framework) behoben.",
+  "platforms": {
+    "mac": {
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v243.zip",
+      "sha256": "1a7db1708e4a1800ea4676a55ebfff1348f77f22277adb12d1907d87eb922641",
+      "upload_as": "familyfinance-v243.zip"
+    },
+    "windows": {
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v243.zip",
+      "sha256": "28205f51044f3d3766ddf8abba751086d9b9914f86b7cd17ef1f7861cae5b953",
+      "upload_as": "familyfinance-windows-v243.zip"
+    }
+  }
+}
