@@ -1,16 +1,16 @@
 {
-  "version": "v237",
-  "notes": "Verbindlichkeiten-Restschuld nutzt jetzt exakt dasselbe Klick-zum-Bearbeiten-Verhalten wie Vermoegen (fett formatierter Wert in Ruhe, Klick oeffnet editierbares Feld) -- gemeinsame Funktion fuer beide Bereiche",
+  "version": "v240",
+  "notes": "Neue zentrale 'Integrationen'-Seite unter Energy Monitor: Zappi und Sungrow per '+' hinzufuegen statt auf einzelnen Zaehlerseiten verstreut, Wallbox-Integrationen zeigen 'Eingerechnet im Hausverbrauch', erweiterbar fuer weitere Integrationen",
   "platforms": {
     "mac": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v237.zip",
-      "sha256": "6e2dfad5f9d5f61ce04e0d8232f30ef55636aeb506b67542ae3a47856bc8d66f",
-      "upload_as": "familyfinance-v237.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v240.zip",
+      "sha256": "386a3f609878025a33983af3d79fa38f83221677fc63ae3211da3ae2c66a53b3",
+      "upload_as": "familyfinance-v240.zip"
     },
     "windows": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v237.zip",
-      "sha256": "af7c8ffeb35ec3dda8cb4407b971208c1341c8ad1fa2cb34b9a636bbd780cc49",
-      "upload_as": "familyfinance-windows-v237.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v240.zip",
+      "sha256": "e109665346dbce1d6c63605d40c353ec2e3a691615574c1fbf8ab345f1ecf5da",
+      "upload_as": "familyfinance-windows-v240.zip"
     }
   }
 }
