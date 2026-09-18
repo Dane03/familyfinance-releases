@@ -1,16 +1,16 @@
 {
-  "version": "v246",
-  "notes": "Schliessen-Knopf des Dokument-Betrachters unter iOS bei Pinch-Zoom nicht mehr erreichbar: Seiten-weites Zoomen wird jetzt waehrend des Betrachtens gesperrt (iOS haelt 'position:fixed'-Elemente beim Zoomen nicht am sichtbaren Bereich fest), Zoomen INNERHALB der PDF bleibt ueber den eingebetteten PDF-Viewer moeglich.",
+  "version": "v247",
+  "notes": "WICHTIGER FIX: Verschluesselte PDFs oeffneten bisher die rohe Datei direkt in einem neuen Tab -- in der als Homescreen-App installierten PWA fehlte dabei jede Bedienoberflaeche, keine Moeglichkeit zurueckzukommen. Neue eigene Wrapper-Seite mit garantiert erreichbarem Schliessen-Knopf, die die PDF per <embed> einbettet (zeigt weiterhin den nativen Passwort-Dialog).",
   "platforms": {
     "mac": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v246.zip",
-      "sha256": "51df8e46507f4436df5ae39f59a9edf1df97e1f018b7e26fc188f77d9ebc4e8e",
-      "upload_as": "familyfinance-v246.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v247.zip",
+      "sha256": "dcd6a1d6e356a0a5eace6e878afcaa19207a55be8b94fec53a3590d98db4de39",
+      "upload_as": "familyfinance-v247.zip"
     },
     "windows": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v246.zip",
-      "sha256": "322b90b256d2b3a345310789f72727fa97883cfe6498dbd2cfb0f6dee6c8043b",
-      "upload_as": "familyfinance-windows-v246.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v247.zip",
+      "sha256": "c2f2b0fffa8751b46bda4f2e960ae271a37dab02794af3099955eddd9091c5d3",
+      "upload_as": "familyfinance-windows-v247.zip"
     }
   }
 }
