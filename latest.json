@@ -1,16 +1,16 @@
 {
-  "version": "v244",
-  "notes": "Passwortgeschuetzte PDFs erkannt und ausserhalb des In-App-Betrachters geoeffnet (iOS-iframe kann keinen Passwort-Dialog zeigen) -- vorher blieb die Seite einfach leer mit Fehlersymbol. Schliessen-Button des Betrachters mit Sicherheitsabstand fuer Notch/Dynamic Island abgesichert.",
+  "version": "v245",
+  "notes": "Gehaltsabrechnungs-Import: das eingegebene PDF-Passwort wurde bisher nur zum Auslesen verwendet, die gespeicherte Datei blieb weiterhin verschluesselt. Wird jetzt nach erfolgreicher Entschluesselung als entschluesselte Kopie gespeichert -- einmal Passwort eingeben genuegt jetzt wirklich, spaetere Ansicht braucht keinen Umweg mehr.",
   "platforms": {
     "mac": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v244.zip",
-      "sha256": "2f40d211ebb07ffb794b50c5f1f6dd972b76605e1949b6896b16de2fbefea591",
-      "upload_as": "familyfinance-v244.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v245.zip",
+      "sha256": "7789448aa78404c769421f0d79fe5ea6443f0c015667fa10db72eee55f88c2d4",
+      "upload_as": "familyfinance-v245.zip"
     },
     "windows": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v244.zip",
-      "sha256": "8290e8379996009918db08b21d95c8dcabcc1684c12168d011661aab18235a56",
-      "upload_as": "familyfinance-windows-v244.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v245.zip",
+      "sha256": "e88b7dd139d85b4256126f49b103da3ea617e9eab28bb59cfa09333e8ded5ecd",
+      "upload_as": "familyfinance-windows-v245.zip"
     }
   }
 }
