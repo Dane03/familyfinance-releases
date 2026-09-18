@@ -1,16 +1,16 @@
 {
-  "version": "v245",
-  "notes": "Gehaltsabrechnungs-Import: das eingegebene PDF-Passwort wurde bisher nur zum Auslesen verwendet, die gespeicherte Datei blieb weiterhin verschluesselt. Wird jetzt nach erfolgreicher Entschluesselung als entschluesselte Kopie gespeichert -- einmal Passwort eingeben genuegt jetzt wirklich, spaetere Ansicht braucht keinen Umweg mehr.",
+  "version": "v246",
+  "notes": "Schliessen-Knopf des Dokument-Betrachters unter iOS bei Pinch-Zoom nicht mehr erreichbar: Seiten-weites Zoomen wird jetzt waehrend des Betrachtens gesperrt (iOS haelt 'position:fixed'-Elemente beim Zoomen nicht am sichtbaren Bereich fest), Zoomen INNERHALB der PDF bleibt ueber den eingebetteten PDF-Viewer moeglich.",
   "platforms": {
     "mac": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v245.zip",
-      "sha256": "7789448aa78404c769421f0d79fe5ea6443f0c015667fa10db72eee55f88c2d4",
-      "upload_as": "familyfinance-v245.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v246.zip",
+      "sha256": "51df8e46507f4436df5ae39f59a9edf1df97e1f018b7e26fc188f77d9ebc4e8e",
+      "upload_as": "familyfinance-v246.zip"
     },
     "windows": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v245.zip",
-      "sha256": "e88b7dd139d85b4256126f49b103da3ea617e9eab28bb59cfa09333e8ded5ecd",
-      "upload_as": "familyfinance-windows-v245.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v246.zip",
+      "sha256": "322b90b256d2b3a345310789f72727fa97883cfe6498dbd2cfb0f6dee6c8043b",
+      "upload_as": "familyfinance-windows-v246.zip"
     }
   }
 }
