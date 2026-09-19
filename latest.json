@@ -1,16 +1,16 @@
 {
-  "version": "v248",
-  "notes": "WICHTIGER FIX: Die Verschluesselungspruefung fing bisher JEDE pypdf-Ausnahme ab und meldete dann faelschlich 'nicht verschluesselt' -- bei PDFs mit unueblicher Struktur (z.B. aus mancher Lohnabrechnungs-Software) fuehrte das zu einer leeren Ansicht ohne jede Passwortabfrage. Jetzt zweistufig: bei pypdf-Fehler zusaetzliche Rohsuche nach dem Verschluesselungs-Merkmal, im Zweifel gilt 'verschluesselt' als sicherere Annahme.",
+  "version": "v249",
+  "notes": "PDF-Wrapper-Seite (fuer verschluesselte PDFs) fuellte den verfuegbaren Platz nicht korrekt aus -- position:fixed mit top/bottom-Koordinaten liess das eingebettete <embed>-Element auf seine eigene Inhaltsgroesse zurueckfallen statt zu strecken, sichtbar als grosser leerer Bereich unterhalb des Dokuments, v.a. bei mehrseitigen PDFs. Jetzt mit demselben bewaehrten Flexbox-Muster wie der eigene In-App-Betrachter behoben.",
   "platforms": {
     "mac": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v248.zip",
-      "sha256": "8d7903fe116da37b3f9713c5a924b7945f67e857ea81f9a923a5817cf1511b41",
-      "upload_as": "familyfinance-v248.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v249.zip",
+      "sha256": "e1b9bfecca74aeea9fad9a43e968ad5dc499d64520ff89de3ccab54cd452a9ba",
+      "upload_as": "familyfinance-v249.zip"
     },
     "windows": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v248.zip",
-      "sha256": "3630e77545b786319df3760e83355ada345a663768bd0918702eb5434aa8a0b5",
-      "upload_as": "familyfinance-windows-v248.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v249.zip",
+      "sha256": "0431376c66d923eb66d9df5690b6ccfbf38f3d5443ea59edebdde20c029c8c4c",
+      "upload_as": "familyfinance-windows-v249.zip"
     }
   }
 }
