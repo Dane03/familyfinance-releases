@@ -1,16 +1,16 @@
 {
-  "version": "v247",
-  "notes": "WICHTIGER FIX: Verschluesselte PDFs oeffneten bisher die rohe Datei direkt in einem neuen Tab -- in der als Homescreen-App installierten PWA fehlte dabei jede Bedienoberflaeche, keine Moeglichkeit zurueckzukommen. Neue eigene Wrapper-Seite mit garantiert erreichbarem Schliessen-Knopf, die die PDF per <embed> einbettet (zeigt weiterhin den nativen Passwort-Dialog).",
+  "version": "v248",
+  "notes": "WICHTIGER FIX: Die Verschluesselungspruefung fing bisher JEDE pypdf-Ausnahme ab und meldete dann faelschlich 'nicht verschluesselt' -- bei PDFs mit unueblicher Struktur (z.B. aus mancher Lohnabrechnungs-Software) fuehrte das zu einer leeren Ansicht ohne jede Passwortabfrage. Jetzt zweistufig: bei pypdf-Fehler zusaetzliche Rohsuche nach dem Verschluesselungs-Merkmal, im Zweifel gilt 'verschluesselt' als sicherere Annahme.",
   "platforms": {
     "mac": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v247.zip",
-      "sha256": "dcd6a1d6e356a0a5eace6e878afcaa19207a55be8b94fec53a3590d98db4de39",
-      "upload_as": "familyfinance-v247.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v248.zip",
+      "sha256": "8d7903fe116da37b3f9713c5a924b7945f67e857ea81f9a923a5817cf1511b41",
+      "upload_as": "familyfinance-v248.zip"
     },
     "windows": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v247.zip",
-      "sha256": "c2f2b0fffa8751b46bda4f2e960ae271a37dab02794af3099955eddd9091c5d3",
-      "upload_as": "familyfinance-windows-v247.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v248.zip",
+      "sha256": "3630e77545b786319df3760e83355ada345a663768bd0918702eb5434aa8a0b5",
+      "upload_as": "familyfinance-windows-v248.zip"
     }
   }
 }
