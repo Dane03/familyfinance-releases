@@ -1,16 +1,16 @@
 {
-  "version": "v252",
-  "notes": "WICHTIGER FIX: Verschluesselte PDFs verlassen sich nicht mehr auf die native, sich als unzuverlaessig erwiesene iOS-Passwortabfrage in <embed>/<iframe>. Die App zeigt jetzt ein eigenes Passwort-Formular, entschluesselt die Datei serverseitig zur Vorschau (Original bleibt unveraendert) und zeigt sie im bewaehrten In-App-Betrachter -- vollstaendig plattformunabhaengig und getestet.",
+  "version": "v253",
+  "notes": "PDF-Passwort-Seite: uebernimmt jetzt das gewaehlte App-Design (alle 5 Themes) statt fest codierter Farben, und die entschluesselte PDF wird ueber den Standard-Oeffnungsparameter FitH auf die volle Breite skaliert statt in Originalgroesse zentriert angezeigt zu werden.",
   "platforms": {
     "mac": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v252.zip",
-      "sha256": "0951e4d462a05eba3dbe6c1f307d07867d5519bf5e32d415729a6de5f8fbca06",
-      "upload_as": "familyfinance-v252.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v253.zip",
+      "sha256": "e6d56f93a36f9e5107e4a1624a5c5f6b964d226c8ec8f54853ba83e0e6ce00f0",
+      "upload_as": "familyfinance-v253.zip"
     },
     "windows": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v252.zip",
-      "sha256": "ef8d0c7b45ea996aec6e8b88865b4836427c4f7176ed66cba9f6172c003c031e",
-      "upload_as": "familyfinance-windows-v252.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v253.zip",
+      "sha256": "a543735c2d62361879224f948bc254435bfc63b36399997cd7204ca7b95b29bf",
+      "upload_as": "familyfinance-windows-v253.zip"
     }
   }
 }
