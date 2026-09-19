@@ -1,16 +1,16 @@
 {
-  "version": "v253",
-  "notes": "PDF-Passwort-Seite: uebernimmt jetzt das gewaehlte App-Design (alle 5 Themes) statt fest codierter Farben, und die entschluesselte PDF wird ueber den Standard-Oeffnungsparameter FitH auf die volle Breite skaliert statt in Originalgroesse zentriert angezeigt zu werden.",
+  "version": "v254",
+  "notes": "PDF-Passwort-Ansicht: Die Skalierung ueber den PDF-Oeffnungsparameter '#view=FitH' war unter iOS/WKWebView unzuverlaessig. PDFs werden jetzt selbst ueber PDF.js auf Canvas gerendert, seitenweise exakt auf die volle Breite des verfuegbaren Bereichs berechnet -- vollstaendig getestet statt auf natives Verhalten angewiesen.",
   "platforms": {
     "mac": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v253.zip",
-      "sha256": "e6d56f93a36f9e5107e4a1624a5c5f6b964d226c8ec8f54853ba83e0e6ce00f0",
-      "upload_as": "familyfinance-v253.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v254.zip",
+      "sha256": "c97dbc4a08831e8dd8c7f18c9bd734966477f5a132a0a359c5f79b93ad3efb6d",
+      "upload_as": "familyfinance-v254.zip"
     },
     "windows": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v253.zip",
-      "sha256": "a543735c2d62361879224f948bc254435bfc63b36399997cd7204ca7b95b29bf",
-      "upload_as": "familyfinance-windows-v253.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v254.zip",
+      "sha256": "0f6dad44aac0a799e4b8ef8e790e273ec65fddfa1ad0ec3aca107456fcc73278",
+      "upload_as": "familyfinance-windows-v254.zip"
     }
   }
 }
