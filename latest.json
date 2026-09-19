@@ -1,16 +1,16 @@
 {
-  "version": "v251",
-  "notes": "PDF-Wrapper-Seite: <embed> durch <iframe> ersetzt fuer die Anzeige verschluesselter PDFs -- <embed> zeigte zwar den Passwort-Hinweis, aber kein bedienbares Eingabefeld. <iframe> gilt (auch laut PDFObject, die <embed> deswegen 2024 verworfen haben) als zuverlaessiger fuer PDF-Inhalte. Eigene Kopfzeile mit Schliessen-Knopf bleibt erhalten -- kein Verlassen der App-Seite mehr noetig.",
+  "version": "v252",
+  "notes": "WICHTIGER FIX: Verschluesselte PDFs verlassen sich nicht mehr auf die native, sich als unzuverlaessig erwiesene iOS-Passwortabfrage in <embed>/<iframe>. Die App zeigt jetzt ein eigenes Passwort-Formular, entschluesselt die Datei serverseitig zur Vorschau (Original bleibt unveraendert) und zeigt sie im bewaehrten In-App-Betrachter -- vollstaendig plattformunabhaengig und getestet.",
   "platforms": {
     "mac": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v251.zip",
-      "sha256": "61317f38b470326b399623251a30162d9506f18cbb7b3ee826eac12978d87a33",
-      "upload_as": "familyfinance-v251.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v252.zip",
+      "sha256": "0951e4d462a05eba3dbe6c1f307d07867d5519bf5e32d415729a6de5f8fbca06",
+      "upload_as": "familyfinance-v252.zip"
     },
     "windows": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v251.zip",
-      "sha256": "e50bfb3a81f78c2484dc12fd07e29d5df2e6891989a0efe0f448b76d321254c3",
-      "upload_as": "familyfinance-windows-v251.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v252.zip",
+      "sha256": "ef8d0c7b45ea996aec6e8b88865b4836427c4f7176ed66cba9f6172c003c031e",
+      "upload_as": "familyfinance-windows-v252.zip"
     }
   }
 }
