@@ -1,16 +1,16 @@
 {
-  "version": "v249",
-  "notes": "PDF-Wrapper-Seite (fuer verschluesselte PDFs) fuellte den verfuegbaren Platz nicht korrekt aus -- position:fixed mit top/bottom-Koordinaten liess das eingebettete <embed>-Element auf seine eigene Inhaltsgroesse zurueckfallen statt zu strecken, sichtbar als grosser leerer Bereich unterhalb des Dokuments, v.a. bei mehrseitigen PDFs. Jetzt mit demselben bewaehrten Flexbox-Muster wie der eigene In-App-Betrachter behoben.",
+  "version": "v250",
+  "notes": "PDF-Wrapper-Seite: 'overflow:hidden' entfernt, das vermutlich die native iOS-Passwort-Eingabemaske abgeschnitten hat (der Hinweistext 'Dieses Dokument ist passwortgeschuetzt' erschien bereits korrekt, das Eingabefeld fehlte). Zusaetzlich neuer Ausweg-Link 'Datei direkt oeffnen' als Ruecksicherung, falls die eingebettete Ansicht weiterhin nicht vollstaendig interaktiv ist.",
   "platforms": {
     "mac": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v249.zip",
-      "sha256": "e1b9bfecca74aeea9fad9a43e968ad5dc499d64520ff89de3ccab54cd452a9ba",
-      "upload_as": "familyfinance-v249.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v250.zip",
+      "sha256": "cf5b615eda888d1239abce1eaa777e258f93b69913b5b9ac3667eba7e1928bea",
+      "upload_as": "familyfinance-v250.zip"
     },
     "windows": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v249.zip",
-      "sha256": "0431376c66d923eb66d9df5690b6ccfbf38f3d5443ea59edebdde20c029c8c4c",
-      "upload_as": "familyfinance-windows-v249.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v250.zip",
+      "sha256": "9bbaa4037a12e834846734b15aeeafcd3e4d0a2332f7376cc4e2e2d08cf6d495",
+      "upload_as": "familyfinance-windows-v250.zip"
     }
   }
 }
