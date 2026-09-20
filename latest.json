@@ -1,16 +1,16 @@
 {
-  "version": "v256",
-  "notes": "Sungrow-Login schlug faelschlich mit 'falsches Passwort' fehl, wenn das Konto auf einem anderen iSolarCloud-Server registriert ist als der fest angenommenen Region 'Europe'. Verbindungstest probiert jetzt alle bekannten Regionen der Reihe nach durch (Europe zuerst) und speichert die tatsaechlich erfolgreiche Region dauerhaft.",
+  "version": "v258",
+  "notes": "Sungrow-Anbindung komplett auf die offizielle OAuth-API umgestellt statt der fehleranfaelligen E-Mail/Passwort-Anmeldung. Der Nutzer meldet sich direkt bei Sungrow an (Passwort wird nie an uns uebertragen), erfordert einmalige App-Registrierung im Sungrow-Entwicklerportal (App Key/Secret/ID + Redirect-URI). Liefert zudem lesbare Feldnamen statt unbekannter Rohdaten.",
   "platforms": {
     "mac": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v256.zip",
-      "sha256": "44baa67b30635b4a889898f011fe7971d265ff6555792b229651be01d56d477a",
-      "upload_as": "familyfinance-v256.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v258.zip",
+      "sha256": "b4adc3699c7988d6dbfb4057aea02882a3e73ba5abddd4d2e23a99cbfc53d6f9",
+      "upload_as": "familyfinance-v258.zip"
     },
     "windows": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v256.zip",
-      "sha256": "68337b8f5a1e3e3606d84627ab1173a17afd3316ff956cc9ba88bf1224d45d29",
-      "upload_as": "familyfinance-windows-v256.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v258.zip",
+      "sha256": "46ba7293adad13d4f70c59a05f0dc46a9012ecba5297ffa3f494455bc89a08b6",
+      "upload_as": "familyfinance-windows-v258.zip"
     }
   }
 }
