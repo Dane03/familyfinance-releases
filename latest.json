@@ -1,16 +1,16 @@
 {
-  "version": "v258",
-  "notes": "Sungrow-Anbindung komplett auf die offizielle OAuth-API umgestellt statt der fehleranfaelligen E-Mail/Passwort-Anmeldung. Der Nutzer meldet sich direkt bei Sungrow an (Passwort wird nie an uns uebertragen), erfordert einmalige App-Registrierung im Sungrow-Entwicklerportal (App Key/Secret/ID + Redirect-URI). Liefert zudem lesbare Feldnamen statt unbekannter Rohdaten.",
+  "version": "v259",
+  "notes": "WICHTIGER FIX: Per Einzel-Beleg-Upload einem Rentenkonto zugeordnete Dokumente wurden korrekt gespeichert, aber komplett unsichtbar, sobald das Konto mit einem Vertrag unter Ausgaben verknuepft war -- die Dokumentenliste zeigte in dem Fall ausschliesslich Vertragsbelege, nicht die eigene pension_documents-Historie. Beide Quellen werden jetzt korrekt zusammengefuehrt.",
   "platforms": {
     "mac": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v258.zip",
-      "sha256": "b4adc3699c7988d6dbfb4057aea02882a3e73ba5abddd4d2e23a99cbfc53d6f9",
-      "upload_as": "familyfinance-v258.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v259.zip",
+      "sha256": "482e69db5800334891ff6187bcd6e40e872be88dfdb68ba76cdebf7f143a3e72",
+      "upload_as": "familyfinance-v259.zip"
     },
     "windows": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v258.zip",
-      "sha256": "46ba7293adad13d4f70c59a05f0dc46a9012ecba5297ffa3f494455bc89a08b6",
-      "upload_as": "familyfinance-windows-v258.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v259.zip",
+      "sha256": "2a5534e56b314b1f55b4d57adbd76621588729e51fcc810bcfcf157ca0ad9241",
+      "upload_as": "familyfinance-windows-v259.zip"
     }
   }
 }
