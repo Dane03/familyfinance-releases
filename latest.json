@@ -1,16 +1,16 @@
 {
-  "version": "v259",
-  "notes": "WICHTIGER FIX: Per Einzel-Beleg-Upload einem Rentenkonto zugeordnete Dokumente wurden korrekt gespeichert, aber komplett unsichtbar, sobald das Konto mit einem Vertrag unter Ausgaben verknuepft war -- die Dokumentenliste zeigte in dem Fall ausschliesslich Vertragsbelege, nicht die eigene pension_documents-Historie. Beide Quellen werden jetzt korrekt zusammengefuehrt.",
+  "version": "v260",
+  "notes": "Speicherstruktur aller Dokumente (Belege, Gehaltsabrechnungen, Vorsorge- und Personendokumente) auf 'Themenbereich/Person/...' umgestellt, statt flacher Ordner. Haushaltsweite Eintraege ohne Person landen unter 'Haushalt'. Bestehende Dateien werden beim ersten Start automatisch in die neue Struktur verschoben, gespeicherte Pfade in der Datenbank entsprechend aktualisiert -- keine manuelle Aktion noetig.",
   "platforms": {
     "mac": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v259.zip",
-      "sha256": "482e69db5800334891ff6187bcd6e40e872be88dfdb68ba76cdebf7f143a3e72",
-      "upload_as": "familyfinance-v259.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v260.zip",
+      "sha256": "db76c3eb46faac4fdbdb957060699818cfdbe7091811e88c785c8913ec72adb0",
+      "upload_as": "familyfinance-v260.zip"
     },
     "windows": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v259.zip",
-      "sha256": "2a5534e56b314b1f55b4d57adbd76621588729e51fcc810bcfcf157ca0ad9241",
-      "upload_as": "familyfinance-windows-v259.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v260.zip",
+      "sha256": "2bb1fc5ddd72d0f36d5a0c6242a2ec60eabea20ffcdde730426d875b6938b5eb",
+      "upload_as": "familyfinance-windows-v260.zip"
     }
   }
 }
