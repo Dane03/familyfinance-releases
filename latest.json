@@ -1,16 +1,16 @@
 {
-  "version": "v264",
-  "notes": "Bereits vorhandene (mit dem alten Zappi-Fehler falsch berechnete) Ladewerte werden einmalig zurueckgesetzt, damit die naechste Synchronisierung sie korrekt neu berechnet. Zappi synchronisiert jetzt automatisch im Hintergrund (alle 6 Stunden, beginnend beim App-Start), 'Zuletzt synchronisiert' wird unter Integrationen angezeigt. Die Rohdaten-Diagnose-Funktion wurde entfernt, da nicht mehr benoetigt.",
+  "version": "v265",
+  "notes": "Ablesungen-Listen zeigen jetzt nur noch die letzte Ablesung kompakt an, voller Verlauf per Klick/Rechtsklick auf 'Ablesungen' in einem Modal. Verbrauchs-Charts (Strom, Gas, Wasser) neu: Jahresvergleich-Ansicht (ein Balken je Kalenderjahr, unabhaengig von der Zeitraumwahl) sowie bei Strom eine Serien-Isolation, um 'Auto laden' und 'Hausverbrauch' komplett getrennt als eigene Zeitreihe zu betrachten statt nur gestapelt.",
   "platforms": {
     "mac": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v264.zip",
-      "sha256": "f1bc6bc0b82ec7fa46463dedba743cca4cda79d493211e9f42f8194bb40f4592",
-      "upload_as": "familyfinance-v264.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v265.zip",
+      "sha256": "8f1ba5c7138d44b35e3cfd4a1ba417af6e473819be080401e3c5a2b94c6dda0d",
+      "upload_as": "familyfinance-v265.zip"
     },
     "windows": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v264.zip",
-      "sha256": "dc3092187579067ebbe3f5334d014e51b47eb723f9cb62ce1cbf56b293b9efdd",
-      "upload_as": "familyfinance-windows-v264.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v265.zip",
+      "sha256": "8b92c5a5ed5d1af8a173da06efcb0fe3b5ca1fc790f3621b289c153fee987ec9",
+      "upload_as": "familyfinance-windows-v265.zip"
     }
   }
 }
