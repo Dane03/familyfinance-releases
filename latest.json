@@ -1,16 +1,16 @@
 {
-  "version": "v260",
-  "notes": "Speicherstruktur aller Dokumente (Belege, Gehaltsabrechnungen, Vorsorge- und Personendokumente) auf 'Themenbereich/Person/...' umgestellt, statt flacher Ordner. Haushaltsweite Eintraege ohne Person landen unter 'Haushalt'. Bestehende Dateien werden beim ersten Start automatisch in die neue Struktur verschoben, gespeicherte Pfade in der Datenbank entsprechend aktualisiert -- keine manuelle Aktion noetig.",
+  "version": "v261",
+  "notes": "Zappi-Sync: Ladeenergie wurde falsch berechnet (Einheiten-Fehler Joule statt Wattstunden, falsche Aggregation ueber Minutenwerte statt der fertigen Tagessumme, und Tage ohne Ladevorgang loesten faelschlich einen Fehler aus statt 0 kWh zu ergeben). Anhand mehrerer unabhaengig verifizierter Referenzwerte korrigiert und gegengeprueft.",
   "platforms": {
     "mac": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v260.zip",
-      "sha256": "db76c3eb46faac4fdbdb957060699818cfdbe7091811e88c785c8913ec72adb0",
-      "upload_as": "familyfinance-v260.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v261.zip",
+      "sha256": "fdfc0b2256a7b3b77d038035864c90e33078b5b1c0649195ce4146c9ec95ac63",
+      "upload_as": "familyfinance-v261.zip"
     },
     "windows": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v260.zip",
-      "sha256": "2bb1fc5ddd72d0f36d5a0c6242a2ec60eabea20ffcdde730426d875b6938b5eb",
-      "upload_as": "familyfinance-windows-v260.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v261.zip",
+      "sha256": "d1edf64d5f89547be8218eec1e57fa7dea506cccd442068da0a2a97a9bf382ff",
+      "upload_as": "familyfinance-windows-v261.zip"
     }
   }
 }
