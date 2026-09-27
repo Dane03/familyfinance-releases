@@ -1,16 +1,16 @@
 {
-  "version": "v262",
-  "notes": "Zappi-Diagnose: 'Rohdaten eines Tages anzeigen'-Knopf ergaenzt, um die tatsaechliche API-Antwort direkt einsehen zu koennen -- die bisher rein dokumentationsbasierte Annahme ueber die Lademenge-Felder (h1d/h2d/h3d) hat bei mindestens einem Zappi/Hub nicht zum erwarteten Ergebnis gefuehrt (0 kWh trotz aktiver Nutzung).",
+  "version": "v263",
+  "notes": "Zappi-Ladeenergie-Berechnung grundlegend korrigiert: das tatsaechliche API-Format liefert einen vollen Tag aus Minutenwerten OHNE Tages-Summenzeile (anders als in aelteren Community-Referenzen von 2019-2023 dokumentiert) -- jetzt werden alle Lade-Kanaele (Netz- und Solar-Ladung, alle Phasen) ueber den kompletten Tag aufsummiert. Anhand echter Nutzerdaten verifiziert: berechneter Wert (2.119 kWh) stimmt exakt mit einem unabhaengigen myenergi-Stundenexport ueberein, und stimmt mit der offiziellen Ladesitzungs-Liste weitgehend ueberein.",
   "platforms": {
     "mac": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v262.zip",
-      "sha256": "c79861d19acd4e7a081b96ecc5693fc7772e7848763a96364eac3bde2023c603",
-      "upload_as": "familyfinance-v262.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v263.zip",
+      "sha256": "9929a52c18fe52fbaf68d6842236b11cfe2ab23d72e8a9506328a2781b89539f",
+      "upload_as": "familyfinance-v263.zip"
     },
     "windows": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v262.zip",
-      "sha256": "7b277a5e794fa59428a968291a7c1f9a96f66bf09d827c7028358d7a16f1b7cf",
-      "upload_as": "familyfinance-windows-v262.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v263.zip",
+      "sha256": "a7e9b9812d1ff61eea76ed3f97be89d45094d81039f31f496bb503c7d8238746",
+      "upload_as": "familyfinance-windows-v263.zip"
     }
   }
 }
