@@ -1,16 +1,16 @@
 {
-  "version": "v265",
-  "notes": "Ablesungen-Listen zeigen jetzt nur noch die letzte Ablesung kompakt an, voller Verlauf per Klick/Rechtsklick auf 'Ablesungen' in einem Modal. Verbrauchs-Charts (Strom, Gas, Wasser) neu: Jahresvergleich-Ansicht (ein Balken je Kalenderjahr, unabhaengig von der Zeitraumwahl) sowie bei Strom eine Serien-Isolation, um 'Auto laden' und 'Hausverbrauch' komplett getrennt als eigene Zeitreihe zu betrachten statt nur gestapelt.",
+  "version": "v267",
+  "notes": "Die 'Ablesungen'-Loesung (kompakte Zusammenfassung, voller Verlauf per Klick/Rechtsklick im Modal) jetzt auch auf 'Produktion & Einspeisung je Monat' angewendet. Loeschen einzelner PV-Monate laeuft jetzt ebenfalls ueber das Verlaufs-Modal.",
   "platforms": {
     "mac": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v265.zip",
-      "sha256": "8f1ba5c7138d44b35e3cfd4a1ba417af6e473819be080401e3c5a2b94c6dda0d",
-      "upload_as": "familyfinance-v265.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v267.zip",
+      "sha256": "ad81246f871d2a08b058b84b0bc2d6562ea1a4518016a16b02728168ad08ed85",
+      "upload_as": "familyfinance-v267.zip"
     },
     "windows": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v265.zip",
-      "sha256": "8b92c5a5ed5d1af8a173da06efcb0fe3b5ca1fc790f3621b289c153fee987ec9",
-      "upload_as": "familyfinance-windows-v265.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v267.zip",
+      "sha256": "645fb7cf5e09ff59fff209f38955c413f251220220f337f298dfa12c579e1562",
+      "upload_as": "familyfinance-windows-v267.zip"
     }
   }
 }
