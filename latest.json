@@ -1,16 +1,16 @@
 {
-  "version": "v261",
-  "notes": "Zappi-Sync: Ladeenergie wurde falsch berechnet (Einheiten-Fehler Joule statt Wattstunden, falsche Aggregation ueber Minutenwerte statt der fertigen Tagessumme, und Tage ohne Ladevorgang loesten faelschlich einen Fehler aus statt 0 kWh zu ergeben). Anhand mehrerer unabhaengig verifizierter Referenzwerte korrigiert und gegengeprueft.",
+  "version": "v262",
+  "notes": "Zappi-Diagnose: 'Rohdaten eines Tages anzeigen'-Knopf ergaenzt, um die tatsaechliche API-Antwort direkt einsehen zu koennen -- die bisher rein dokumentationsbasierte Annahme ueber die Lademenge-Felder (h1d/h2d/h3d) hat bei mindestens einem Zappi/Hub nicht zum erwarteten Ergebnis gefuehrt (0 kWh trotz aktiver Nutzung).",
   "platforms": {
     "mac": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v261.zip",
-      "sha256": "fdfc0b2256a7b3b77d038035864c90e33078b5b1c0649195ce4146c9ec95ac63",
-      "upload_as": "familyfinance-v261.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v262.zip",
+      "sha256": "c79861d19acd4e7a081b96ecc5693fc7772e7848763a96364eac3bde2023c603",
+      "upload_as": "familyfinance-v262.zip"
     },
     "windows": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v261.zip",
-      "sha256": "d1edf64d5f89547be8218eec1e57fa7dea506cccd442068da0a2a97a9bf382ff",
-      "upload_as": "familyfinance-windows-v261.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v262.zip",
+      "sha256": "7b277a5e794fa59428a968291a7c1f9a96f66bf09d827c7028358d7a16f1b7cf",
+      "upload_as": "familyfinance-windows-v262.zip"
     }
   }
 }
