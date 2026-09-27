@@ -1,16 +1,16 @@
 {
-  "version": "v263",
-  "notes": "Zappi-Ladeenergie-Berechnung grundlegend korrigiert: das tatsaechliche API-Format liefert einen vollen Tag aus Minutenwerten OHNE Tages-Summenzeile (anders als in aelteren Community-Referenzen von 2019-2023 dokumentiert) -- jetzt werden alle Lade-Kanaele (Netz- und Solar-Ladung, alle Phasen) ueber den kompletten Tag aufsummiert. Anhand echter Nutzerdaten verifiziert: berechneter Wert (2.119 kWh) stimmt exakt mit einem unabhaengigen myenergi-Stundenexport ueberein, und stimmt mit der offiziellen Ladesitzungs-Liste weitgehend ueberein.",
+  "version": "v264",
+  "notes": "Bereits vorhandene (mit dem alten Zappi-Fehler falsch berechnete) Ladewerte werden einmalig zurueckgesetzt, damit die naechste Synchronisierung sie korrekt neu berechnet. Zappi synchronisiert jetzt automatisch im Hintergrund (alle 6 Stunden, beginnend beim App-Start), 'Zuletzt synchronisiert' wird unter Integrationen angezeigt. Die Rohdaten-Diagnose-Funktion wurde entfernt, da nicht mehr benoetigt.",
   "platforms": {
     "mac": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v263.zip",
-      "sha256": "9929a52c18fe52fbaf68d6842236b11cfe2ab23d72e8a9506328a2781b89539f",
-      "upload_as": "familyfinance-v263.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v264.zip",
+      "sha256": "f1bc6bc0b82ec7fa46463dedba743cca4cda79d493211e9f42f8194bb40f4592",
+      "upload_as": "familyfinance-v264.zip"
     },
     "windows": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v263.zip",
-      "sha256": "a7e9b9812d1ff61eea76ed3f97be89d45094d81039f31f496bb503c7d8238746",
-      "upload_as": "familyfinance-windows-v263.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v264.zip",
+      "sha256": "dc3092187579067ebbe3f5334d014e51b47eb723f9cb62ce1cbf56b293b9efdd",
+      "upload_as": "familyfinance-windows-v264.zip"
     }
   }
 }
