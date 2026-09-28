@@ -1,16 +1,16 @@
 {
-  "version": "v268",
-  "notes": "Sungrow ueber die offizielle Open API im Modus ohne OAuth (V1) -- umgeht die blockierte OAuth-Anlagenfreigabe. Automatischer Abruf alle 30 Minuten, Tageswerte werden gespeichert und zu Monatswerten fortgeschrieben (bereits importierte Monate werden nie verkleinert). Schutz vor Kontosperre: nach einer abgelehnten Anmeldung pausiert der automatische Abruf, bis der Nutzer erneut 'Verbindung testen' klickt; Netzwerkfehler loesen keine Pause aus. Integrations-Karte zeigt den tatsaechlichen Verbindungsstatus.",
+  "version": "v269",
+  "notes": "Wallbox: keine hochgerechneten 'Auto laden'-Werte mehr fuer Monate vor der ersten echten Ablesung (vorher wurden Januar bis Juni aus der aktuellen Laderate aufgefuellt und faelschlich vom Hausverbrauch abgezogen). Die Aufteilung Auto/Hausverbrauch nutzt nur noch echte Ladewerte. iOS: Auswahllisten mit langen Eintraegen ragen nicht mehr ueber die Karte hinaus.",
   "platforms": {
     "mac": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v268.zip",
-      "sha256": "d33f22a7d0cf191a6275a86b8e1db2ea07d0907fb42e63d2483fe663a64ba8b3",
-      "upload_as": "familyfinance-v268.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v269.zip",
+      "sha256": "fa94a121160d562e49afb89f248daa778823fd0e874ac1ef63d8ad03ae3bea1f",
+      "upload_as": "familyfinance-v269.zip"
     },
     "windows": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v268.zip",
-      "sha256": "be3bf28901188ad526ffa7b1a9286aa8796009f4771aa069dff7575ea9362ce1",
-      "upload_as": "familyfinance-windows-v268.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v269.zip",
+      "sha256": "dbc43f89771f908c55ec4cd1203cdb218704cebe8c4de4e2887de7176ba34385",
+      "upload_as": "familyfinance-windows-v269.zip"
     }
   }
 }
