@@ -1,16 +1,16 @@
 {
-  "version": "v267",
-  "notes": "Die 'Ablesungen'-Loesung (kompakte Zusammenfassung, voller Verlauf per Klick/Rechtsklick im Modal) jetzt auch auf 'Produktion & Einspeisung je Monat' angewendet. Loeschen einzelner PV-Monate laeuft jetzt ebenfalls ueber das Verlaufs-Modal.",
+  "version": "v268",
+  "notes": "Sungrow ueber die offizielle Open API im Modus ohne OAuth (V1) -- umgeht die blockierte OAuth-Anlagenfreigabe. Automatischer Abruf alle 30 Minuten, Tageswerte werden gespeichert und zu Monatswerten fortgeschrieben (bereits importierte Monate werden nie verkleinert). Schutz vor Kontosperre: nach einer abgelehnten Anmeldung pausiert der automatische Abruf, bis der Nutzer erneut 'Verbindung testen' klickt; Netzwerkfehler loesen keine Pause aus. Integrations-Karte zeigt den tatsaechlichen Verbindungsstatus.",
   "platforms": {
     "mac": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v267.zip",
-      "sha256": "ad81246f871d2a08b058b84b0bc2d6562ea1a4518016a16b02728168ad08ed85",
-      "upload_as": "familyfinance-v267.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v268.zip",
+      "sha256": "d33f22a7d0cf191a6275a86b8e1db2ea07d0907fb42e63d2483fe663a64ba8b3",
+      "upload_as": "familyfinance-v268.zip"
     },
     "windows": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v267.zip",
-      "sha256": "645fb7cf5e09ff59fff209f38955c413f251220220f337f298dfa12c579e1562",
-      "upload_as": "familyfinance-windows-v267.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v268.zip",
+      "sha256": "be3bf28901188ad526ffa7b1a9286aa8796009f4771aa069dff7575ea9362ce1",
+      "upload_as": "familyfinance-windows-v268.zip"
     }
   }
 }
