@@ -1,16 +1,16 @@
 {
-  "version": "v273",
-  "notes": "Energy-Monitor-Prognosen neu: Liegen Vorjahreswerte vor, wird der saisonale Verlauf des Vorjahres uebernommen und mit der prozentualen Veraenderung ggue. Vorjahr skaliert (juengere Vergleichsmonate zaehlen staerker). Ohne Vorjahreswerte: gewichtetes Mittel des Tagesverbrauchs, juengere Monate mit hoeherem Gewicht (Halbwertszeit 3 Monate). Prognosen werden nur aus echten Werten abgeleitet, nie aus anderen Prognosen.",
+  "version": "v274",
+  "notes": "Strombezug: Kachel 'Reiner Hausverbrauch' entfernt, ihre Angaben stehen jetzt direkt in der Gesamtverbrauch-Kachel (davon Hausverbrauch / davon Auto); Zusatz 'laut iSolarCloud' entfernt.",
   "platforms": {
     "mac": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v273.zip",
-      "sha256": "82dfb6aaa336f518e0a800371d2d61a9de3d1f45d668edfeb78acf401fcc624a",
-      "upload_as": "familyfinance-v273.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v274.zip",
+      "sha256": "7e767b0c188eff62e496dce3caf345651c9d6b269ee1c2b5432afd42287c937c",
+      "upload_as": "familyfinance-v274.zip"
     },
     "windows": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v273.zip",
-      "sha256": "89b043d4fa873c28911b41b481d25787008de97b5852c59c0116f621ce1e849a",
-      "upload_as": "familyfinance-windows-v273.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v274.zip",
+      "sha256": "c602bf3e77c69f789c0658b020b0041c3501ea92f3fa47593e25ee54ea33a01d",
+      "upload_as": "familyfinance-windows-v274.zip"
     }
   }
 }
