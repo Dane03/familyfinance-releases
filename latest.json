@@ -1,16 +1,16 @@
 {
-  "version": "v272",
-  "notes": "Ursache fuer 'Kein Schluesselbund verfuegbar' gefunden: keyring war in der virtuellen Umgebung schlicht nicht installiert. Anzeigefehler behoben (Zeilenumbruch wurde als Text statt als HTML gezeigt). Neuer Knopf 'keyring jetzt installieren' unter Integrationen installiert das Paket direkt ueber den laufenden Server (denselben Python, der den Server startet) und zieht vorhandene Zugangsdaten sofort in den Schluesselbund um -- kein Terminal und kein Neustart noetig.",
+  "version": "v273",
+  "notes": "Energy-Monitor-Prognosen neu: Liegen Vorjahreswerte vor, wird der saisonale Verlauf des Vorjahres uebernommen und mit der prozentualen Veraenderung ggue. Vorjahr skaliert (juengere Vergleichsmonate zaehlen staerker). Ohne Vorjahreswerte: gewichtetes Mittel des Tagesverbrauchs, juengere Monate mit hoeherem Gewicht (Halbwertszeit 3 Monate). Prognosen werden nur aus echten Werten abgeleitet, nie aus anderen Prognosen.",
   "platforms": {
     "mac": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v272.zip",
-      "sha256": "65861f319fa11a9229c40220397c0205962b6c4284390cd110112f62426812c2",
-      "upload_as": "familyfinance-v272.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v273.zip",
+      "sha256": "82dfb6aaa336f518e0a800371d2d61a9de3d1f45d668edfeb78acf401fcc624a",
+      "upload_as": "familyfinance-v273.zip"
     },
     "windows": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v272.zip",
-      "sha256": "405c7fe85c5007eda047e729c22120c81d26027f9ac003476f9cc015f1be8899",
-      "upload_as": "familyfinance-windows-v272.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v273.zip",
+      "sha256": "89b043d4fa873c28911b41b481d25787008de97b5852c59c0116f621ce1e849a",
+      "upload_as": "familyfinance-windows-v273.zip"
     }
   }
 }
