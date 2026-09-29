@@ -1,16 +1,16 @@
 {
-  "version": "v269",
-  "notes": "Wallbox: keine hochgerechneten 'Auto laden'-Werte mehr fuer Monate vor der ersten echten Ablesung (vorher wurden Januar bis Juni aus der aktuellen Laderate aufgefuellt und faelschlich vom Hausverbrauch abgezogen). Die Aufteilung Auto/Hausverbrauch nutzt nur noch echte Ladewerte. iOS: Auswahllisten mit langen Eintraegen ragen nicht mehr ueber die Karte hinaus.",
+  "version": "v270",
+  "notes": "Zugangsdaten aller Integrationen (Zappi, Sungrow) ziehen beim Start automatisch ins Betriebssystem-Schluesselbund um (macOS-Schluesselbund / Windows-Anmeldeinformationsverwaltung) statt im Klartext in der Datenbank zu liegen, die im iCloud-Backup landet. Ohne verfuegbares Schluesselbund bleibt alles wie bisher, ehrlich als Hinweis unter Integrationen angezeigt. Kein Zugang geht dabei verloren: ein Geheimnis wird erst aus der Datenbank entfernt, wenn es nachweislich aus dem Schluesselbund zurückgelesen werden konnte.",
   "platforms": {
     "mac": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v269.zip",
-      "sha256": "fa94a121160d562e49afb89f248daa778823fd0e874ac1ef63d8ad03ae3bea1f",
-      "upload_as": "familyfinance-v269.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v270.zip",
+      "sha256": "ef94d23956e60776f09d7fe1ff60c33acb30db4f6697747514d8756475441d07",
+      "upload_as": "familyfinance-v270.zip"
     },
     "windows": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v269.zip",
-      "sha256": "dbc43f89771f908c55ec4cd1203cdb218704cebe8c4de4e2887de7176ba34385",
-      "upload_as": "familyfinance-windows-v269.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v270.zip",
+      "sha256": "67d3514e58bb8f5bb5335b27ea3a82424d7977191123ff6ee792bee2e8f300d1",
+      "upload_as": "familyfinance-windows-v270.zip"
     }
   }
 }
