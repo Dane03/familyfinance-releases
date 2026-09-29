@@ -1,16 +1,16 @@
 {
-  "version": "v274",
-  "notes": "Strombezug: Kachel 'Reiner Hausverbrauch' entfernt, ihre Angaben stehen jetzt direkt in der Gesamtverbrauch-Kachel (davon Hausverbrauch / davon Auto); Zusatz 'laut iSolarCloud' entfernt.",
+  "version": "v275",
+  "notes": "Strombezug: Kachel 'Progn. Jahreskosten' zeigt davon Hausverbrauch / davon Auto in Euro; Kachel und Kumulative-Kosten-Chart nutzen dieselbe Aufteilung inkl. hochgerechneter Ladeenergie (nie vor der Installation). Fehler in der Prognose aus v273 behoben: der erste (meist unvollstaendige) Monat einer Messreihe und der laufende Monat fliessen nicht mehr in die Berechnungsgrundlage ein -- ein 1-Tages-'Vorjahresmonat' ergab z.B. eine Dezember-Prognose von 10 statt 300 kWh.",
   "platforms": {
     "mac": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v274.zip",
-      "sha256": "7e767b0c188eff62e496dce3caf345651c9d6b269ee1c2b5432afd42287c937c",
-      "upload_as": "familyfinance-v274.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v275.zip",
+      "sha256": "81599ec2e71e57ed680b3776e8ca2851c8b204c8822549d88e7c06aa3d647de7",
+      "upload_as": "familyfinance-v275.zip"
     },
     "windows": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v274.zip",
-      "sha256": "c602bf3e77c69f789c0658b020b0041c3501ea92f3fa47593e25ee54ea33a01d",
-      "upload_as": "familyfinance-windows-v274.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v275.zip",
+      "sha256": "87cde463181dec4596872beff22549cb3a4be4ad4cefb12f53c8cffaee90368c",
+      "upload_as": "familyfinance-windows-v275.zip"
     }
   }
 }
