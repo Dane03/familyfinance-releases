@@ -1,16 +1,16 @@
 {
-  "version": "v270",
-  "notes": "Zugangsdaten aller Integrationen (Zappi, Sungrow) ziehen beim Start automatisch ins Betriebssystem-Schluesselbund um (macOS-Schluesselbund / Windows-Anmeldeinformationsverwaltung) statt im Klartext in der Datenbank zu liegen, die im iCloud-Backup landet. Ohne verfuegbares Schluesselbund bleibt alles wie bisher, ehrlich als Hinweis unter Integrationen angezeigt. Kein Zugang geht dabei verloren: ein Geheimnis wird erst aus der Datenbank entfernt, wenn es nachweislich aus dem Schluesselbund zurückgelesen werden konnte.",
+  "version": "v271",
+  "notes": "Diagnose fuer 'Kein Schluesselbund verfuegbar': der genaue technische Fehlergrund (z.B. der konkrete macOS-Fehlercode) wird jetzt statt stillschweigend verschluckt direkt unter Integrationen angezeigt.",
   "platforms": {
     "mac": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v270.zip",
-      "sha256": "ef94d23956e60776f09d7fe1ff60c33acb30db4f6697747514d8756475441d07",
-      "upload_as": "familyfinance-v270.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v271.zip",
+      "sha256": "f571cf0297a7db45b6c33ec632dd47aeceec7f6e77b36432534cab863c4d7098",
+      "upload_as": "familyfinance-v271.zip"
     },
     "windows": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v270.zip",
-      "sha256": "67d3514e58bb8f5bb5335b27ea3a82424d7977191123ff6ee792bee2e8f300d1",
-      "upload_as": "familyfinance-windows-v270.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v271.zip",
+      "sha256": "1a4a564eee063077e6d5ffca1e0f0a51e2150cc993d7d4fb3d3eabc4476f82ae",
+      "upload_as": "familyfinance-windows-v271.zip"
     }
   }
 }
