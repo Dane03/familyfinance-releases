@@ -1,16 +1,16 @@
 {
-  "version": "v275",
-  "notes": "Strombezug: Kachel 'Progn. Jahreskosten' zeigt davon Hausverbrauch / davon Auto in Euro; Kachel und Kumulative-Kosten-Chart nutzen dieselbe Aufteilung inkl. hochgerechneter Ladeenergie (nie vor der Installation). Fehler in der Prognose aus v273 behoben: der erste (meist unvollstaendige) Monat einer Messreihe und der laufende Monat fliessen nicht mehr in die Berechnungsgrundlage ein -- ein 1-Tages-'Vorjahresmonat' ergab z.B. eine Dezember-Prognose von 10 statt 300 kWh.",
+  "version": "v277",
+  "notes": "Strom: neue Ansicht 'Taeglich' im Gesamtverbrauch- und Produktions-Chart, zeigt echte Tageswerte aus dem automatischen Sungrow-Sync statt Monats-Schaetzung (nur fuer den Zeitraum verfuegbar, in dem der Sync schon lief, bewusst ohne Hochrechnung). Die Aufteilung 'davon Hausverbrauch/davon Auto' in der Jahreskosten-Kachel und im Kumulative-Kosten-Chart rechnet jetzt tagesgenau statt geschaetzt, sobald fuer einen Monat vollstaendige Tageswerte von Sungrow UND Zappi vorliegen; ohne das bleibt die bisherige Monats-Schaetzung unveraendert bestehen.",
   "platforms": {
     "mac": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v275.zip",
-      "sha256": "81599ec2e71e57ed680b3776e8ca2851c8b204c8822549d88e7c06aa3d647de7",
-      "upload_as": "familyfinance-v275.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v277.zip",
+      "sha256": "c2def6eb2fca5b6f38c1adce2c92630a1119eaaaff5fb16176a8aa77856da231",
+      "upload_as": "familyfinance-v277.zip"
     },
     "windows": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v275.zip",
-      "sha256": "87cde463181dec4596872beff22549cb3a4be4ad4cefb12f53c8cffaee90368c",
-      "upload_as": "familyfinance-windows-v275.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v277.zip",
+      "sha256": "3fca7212bd1ff5eaaaf44084e16de8e9a85c038c2ec59d4f642fe29117b49125",
+      "upload_as": "familyfinance-windows-v277.zip"
     }
   }
 }
