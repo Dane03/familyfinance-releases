@@ -1,16 +1,16 @@
 {
-  "version": "v280",
-  "notes": "Demo-Modus: Einkommen wird jetzt korrekt mit Max/Erika Mustermann verknuepft (fehlte bisher, Vorsorge-Dashboard meldete faelschlich 'kein Nettoeinkommen hinterlegt'). PV/Einspeisung-Werte deutlich veraendert (kleinere 6,8-kWp-Anlage statt zuvor 9,8 kWp). Ausserdem einen Realismus-Fehler gefunden und behoben: die bisherige Berechnung nahm eine perfekte zeitliche Deckung von PV und Verbrauch an, wodurch der Strombezug in mehreren Sommermonaten komplett auf 0 kWh fiel -- unrealistisch selbst mit Batterie. Jetzt bleibt immer ein realistischer Grundlast-Anteil als Netzbezug bestehen.",
+  "version": "v281",
+  "notes": "Fehler behoben: Dashboard-Jahresabrechnung und die einzelne Strombezug-Seite zeigten unterschiedliche, teils gegensaetzliche 'Erwartete Differenz'-Werte fuer dasselbe Jahr. Ursache: Die Dashboard-Jahresabrechnung nutzte fuer Strombezug noch eine alte, rein flache Hochrechnung (Durchschnitt der bekannten Monate x 12) statt der saisonalen Prognose, die Gas/Wasser in derselben Funktion und die Strombezug-Seite selbst bereits verwenden. Beide Stellen rechnen jetzt identisch.",
   "platforms": {
     "mac": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v280.zip",
-      "sha256": "69096c4cf049cd894f3e511b3b88979cce46398bc3f8bcb8da2bb73add4e8efe",
-      "upload_as": "familyfinance-v280.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v281.zip",
+      "sha256": "01ff9d0a0b43ca9717e25247bde2fcc8d5cb9c33fc4cd38f24f1f61798b90bb5",
+      "upload_as": "familyfinance-v281.zip"
     },
     "windows": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v280.zip",
-      "sha256": "b8e8240dc8dcc5558cb77fb4796c37a2fc30a8d19a234d8e3503a58c6ad6abc5",
-      "upload_as": "familyfinance-windows-v280.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v281.zip",
+      "sha256": "18bcb13f0f7bbfcb26396a9fa4b86e83e804bf6062b5a5059ef2d5f597fc0139",
+      "upload_as": "familyfinance-windows-v281.zip"
     }
   }
 }
