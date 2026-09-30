@@ -1,16 +1,16 @@
 {
-  "version": "v281",
-  "notes": "Fehler behoben: Dashboard-Jahresabrechnung und die einzelne Strombezug-Seite zeigten unterschiedliche, teils gegensaetzliche 'Erwartete Differenz'-Werte fuer dasselbe Jahr. Ursache: Die Dashboard-Jahresabrechnung nutzte fuer Strombezug noch eine alte, rein flache Hochrechnung (Durchschnitt der bekannten Monate x 12) statt der saisonalen Prognose, die Gas/Wasser in derselben Funktion und die Strombezug-Seite selbst bereits verwenden. Beide Stellen rechnen jetzt identisch.",
+  "version": "v282",
+  "notes": "Strom: Gesamtverbrauch- und Produktions-Chart zeigen jetzt auch Prognose-Monate (helle Balken, wie bei Gas/Wasser), statt nur echte Sungrow-Monate. Wasserprognose geprueft und bestaetigt korrekt (saisonale Hochrechnung, Dashboard und Einzelseite stimmen ueberein).",
   "platforms": {
     "mac": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v281.zip",
-      "sha256": "01ff9d0a0b43ca9717e25247bde2fcc8d5cb9c33fc4cd38f24f1f61798b90bb5",
-      "upload_as": "familyfinance-v281.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v282.zip",
+      "sha256": "5c2cc516133f5ce8d1f014b64005d5c29bc00c4d897f7fea88419665503359b5",
+      "upload_as": "familyfinance-v282.zip"
     },
     "windows": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v281.zip",
-      "sha256": "18bcb13f0f7bbfcb26396a9fa4b86e83e804bf6062b5a5059ef2d5f597fc0139",
-      "upload_as": "familyfinance-windows-v281.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v282.zip",
+      "sha256": "e78062d4567d0920b64d46006c30d06025231926110e2732c7b53b6069e7073f",
+      "upload_as": "familyfinance-windows-v282.zip"
     }
   }
 }
