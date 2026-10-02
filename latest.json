@@ -1,16 +1,16 @@
 {
-  "version": "v284",
-  "notes": "Bankumsaetze lassen sich Ausgaben und Einnahmen zuordnen, sichtbar in beide Richtungen (Umsatzliste zeigt den Vertrag, Vertrag/Einnahme zeigt seine Zahlungen). Einmal von Hand zugeordnet, lernt die App eine Regel (Glaeubiger-ID+Mandat > IBAN > Name) und ordnet gleiche Umsaetze rueckwirkend und kuenftig automatisch zu. Neue Hinweise im Ausgaben-Tab: Preisaenderung (erst nach zwei gleich abweichenden Buchungen, Betrag wird nur auf Klick uebernommen), ausbleibende Zahlung (nur fuer Vertraege mit Bankumsaetzen) und neue wiederkehrende Abbuchungen mit 'Als Ausgabe anlegen'.",
+  "version": "v285",
+  "notes": "Laufender Monat wird jetzt hochgerechnet statt nur mit dem bisherigen Verbrauch zu zaehlen -- bei Gas, Wasser und Strom, in Charts wie in Jahreskosten, optimalem Abschlag und Jahresabrechnung. Resttage nach Vorjahresmonat x Steigerung, sonst gewichtetem Mittel der letzten Monate; Startpunkt ist der letzte Tag mit echten Daten (Zaehler: letzte Ablesung, Sungrow: heute). Charts zeigen den gemessenen Teil kraeftig, die Hochrechnung hell darueber.",
   "platforms": {
     "mac": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v284.zip",
-      "sha256": "bf56884ec41d0e4bea86232e851638a8097e39a3e5df4bf2c51d8810eeab7ca5",
-      "upload_as": "familyfinance-v284.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v285.zip",
+      "sha256": "34995e57e4eadd22759b7a5f0b94afe04f731d4596d73a7c40803c0f74288ebe",
+      "upload_as": "familyfinance-v285.zip"
     },
     "windows": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v284.zip",
-      "sha256": "22e20425b8455bd94f89aab8d974b554fb18b6c2e1ee561f90a6dc5fcdf1dc57",
-      "upload_as": "familyfinance-windows-v284.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v285.zip",
+      "sha256": "03501978cb9df89fb18ad1de3f820f44c01fb70767b2e2df1c84a3bdc4e9b210",
+      "upload_as": "familyfinance-windows-v285.zip"
     }
   }
 }
