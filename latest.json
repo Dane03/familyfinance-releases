@@ -1,16 +1,16 @@
 {
-  "version": "v287",
-  "notes": "Wallbox: heutiger Ladewert wird mit abgerufen und stuendlich aktualisiert; Summen nach deutschen Kalendertagen statt UTC (Nachtladungen 0-2 Uhr landeten beim Vortag oder gingen verloren), letzte 90 Tage einmalig neu berechnet; Aussetzer von myenergi loeschen keine Werte. Sungrow: Hausverbrauch wird direkt von Sungrow abgefragt (Messpunkt p83118, beruecksichtigt die Batterie) statt errechnet -- die Rechnung lag am Testtag 2,4 kWh (11 %) zu hoch. Rueckfall auf die Rechnung, falls die Anlage den Wert nicht liefert; der Verbindungstest zeigt Wert und Quelle.",
+  "version": "v289",
+  "notes": "Sungrow: neuer Knopf 'Verlauf korrigieren' unter Integrationen -- holt fuer die bereits gespeicherten Tage den von Sungrow gemeldeten Hausverbrauch (inkl. Batterie) nach und ersetzt die frueher ohne Batterie errechneten, zu hohen Werte. Monate aus Tageswerten werden neu summiert, per Jahresbericht importierte Monate bleiben unangetastet. Tage ohne Sungrow-Wert bleiben unveraendert.",
   "platforms": {
     "mac": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v287.zip",
-      "sha256": "2c1131cd501d2b22b1ff2aae6bce43617d1049c56f7b1c63a76644e3233efba9",
-      "upload_as": "familyfinance-v287.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v289.zip",
+      "sha256": "f4fa8be1d72d2a279a58484ec4dec2f8bacd8534786fcc0ae90ddff3928c81c5",
+      "upload_as": "familyfinance-v289.zip"
     },
     "windows": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v287.zip",
-      "sha256": "a652093e930b798a2ad1433568c39620d3cc86826aa65dd80cd9f71ff3718da4",
-      "upload_as": "familyfinance-windows-v287.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v289.zip",
+      "sha256": "a81bfb26979bb54d1d1fbc548e3b4120960e0ee542552c924f3f1345cc8bc17b",
+      "upload_as": "familyfinance-windows-v289.zip"
     }
   }
 }
