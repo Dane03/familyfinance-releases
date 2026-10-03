@@ -1,16 +1,16 @@
 {
-  "version": "v286",
-  "notes": "Wallbox (Zappi): heutiger Ladewert wird mit abgerufen (vorher erst am Folgetag) und stuendlich aktualisiert. Summen nach deutschen Kalendertagen statt UTC-Tagen (Nachtladungen 0-2 Uhr landeten vorher beim Vortag oder gingen bei einem Abruf kurz nach Mitternacht verloren); der erste Abruf nach dem Update berechnet die letzten 90 Tage einmalig neu. Letzte Tage werden bei jedem Abruf neu berechnet, ein Aussetzer von myenergi loescht nie gespeicherte Werte. Ladung am Monatsersten zaehlt zum neuen Monat.",
+  "version": "v287",
+  "notes": "Wallbox: heutiger Ladewert wird mit abgerufen und stuendlich aktualisiert; Summen nach deutschen Kalendertagen statt UTC (Nachtladungen 0-2 Uhr landeten beim Vortag oder gingen verloren), letzte 90 Tage einmalig neu berechnet; Aussetzer von myenergi loeschen keine Werte. Sungrow: Hausverbrauch wird direkt von Sungrow abgefragt (Messpunkt p83118, beruecksichtigt die Batterie) statt errechnet -- die Rechnung lag am Testtag 2,4 kWh (11 %) zu hoch. Rueckfall auf die Rechnung, falls die Anlage den Wert nicht liefert; der Verbindungstest zeigt Wert und Quelle.",
   "platforms": {
     "mac": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v286.zip",
-      "sha256": "0add87f2871ca805cc3a7462075340fa029946655366738e4abaa2ae02afdac5",
-      "upload_as": "familyfinance-v286.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v287.zip",
+      "sha256": "2c1131cd501d2b22b1ff2aae6bce43617d1049c56f7b1c63a76644e3233efba9",
+      "upload_as": "familyfinance-v287.zip"
     },
     "windows": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v286.zip",
-      "sha256": "89ac3422c48d86d3d02e70fcd0d7bc84ce0720e3f3754605c253fb40259ef4f3",
-      "upload_as": "familyfinance-windows-v286.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v287.zip",
+      "sha256": "a652093e930b798a2ad1433568c39620d3cc86826aa65dd80cd9f71ff3718da4",
+      "upload_as": "familyfinance-windows-v287.zip"
     }
   }
 }
