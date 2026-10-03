@@ -1,16 +1,16 @@
 {
-  "version": "v285",
-  "notes": "Laufender Monat wird jetzt hochgerechnet statt nur mit dem bisherigen Verbrauch zu zaehlen -- bei Gas, Wasser und Strom, in Charts wie in Jahreskosten, optimalem Abschlag und Jahresabrechnung. Resttage nach Vorjahresmonat x Steigerung, sonst gewichtetem Mittel der letzten Monate; Startpunkt ist der letzte Tag mit echten Daten (Zaehler: letzte Ablesung, Sungrow: heute). Charts zeigen den gemessenen Teil kraeftig, die Hochrechnung hell darueber.",
+  "version": "v286",
+  "notes": "Wallbox (Zappi): heutiger Ladewert wird mit abgerufen (vorher erst am Folgetag) und stuendlich aktualisiert. Summen nach deutschen Kalendertagen statt UTC-Tagen (Nachtladungen 0-2 Uhr landeten vorher beim Vortag oder gingen bei einem Abruf kurz nach Mitternacht verloren); der erste Abruf nach dem Update berechnet die letzten 90 Tage einmalig neu. Letzte Tage werden bei jedem Abruf neu berechnet, ein Aussetzer von myenergi loescht nie gespeicherte Werte. Ladung am Monatsersten zaehlt zum neuen Monat.",
   "platforms": {
     "mac": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v285.zip",
-      "sha256": "34995e57e4eadd22759b7a5f0b94afe04f731d4596d73a7c40803c0f74288ebe",
-      "upload_as": "familyfinance-v285.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v286.zip",
+      "sha256": "0add87f2871ca805cc3a7462075340fa029946655366738e4abaa2ae02afdac5",
+      "upload_as": "familyfinance-v286.zip"
     },
     "windows": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v285.zip",
-      "sha256": "03501978cb9df89fb18ad1de3f820f44c01fb70767b2e2df1c84a3bdc4e9b210",
-      "upload_as": "familyfinance-windows-v285.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v286.zip",
+      "sha256": "89ac3422c48d86d3d02e70fcd0d7bc84ce0720e3f3754605c253fb40259ef4f3",
+      "upload_as": "familyfinance-windows-v286.zip"
     }
   }
 }
