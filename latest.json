@@ -1,16 +1,16 @@
 {
-  "version": "v290",
-  "notes": "Strom: klare Trennung zwischen Hausverbrauch (echter Verbrauch aus PV, Speicher und Netz) und Strom-Einkauf (Netzbezug, allein massgeblich fuer Abschlag und Jahresabrechnung), mit eigener Kachel 'Strom-Einkauf'. Fehler behoben: die Auto/Haushalt-Aufteilung der Jahreskosten und des Kosten-Charts setzte in tagesgenau gerechneten Monaten den gesamten Hausverbrauch statt des Einkaufs als Kosten an. Der Einkauf wird jetzt im Verhaeltnis Auto-Ladung/Hausverbrauch auf Auto und Haushalt verteilt. Integrationen: das Formular fuer eine neue Integration erscheint direkt unter dem Knopf, der Bankbereich steht am Ende.",
+  "version": "v291",
+  "notes": "Strom: neuer Chart 'Strom-Einkauf je Monat' (Netzbezug) direkt unter dem Hausverbrauch -- dieselben Werte, auf denen Abschlag und Jahresabrechnung beruhen. Mit Zeitraumwahl, Monatlich/Taeglich/Jahresvergleich, Prognose (hell) und geteiltem laufenden Monat.",
   "platforms": {
     "mac": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v290.zip",
-      "sha256": "07cb6690ffec515f791b6dd6fa4d501ba96b26c0ed8c4869a491b471ab10c429",
-      "upload_as": "familyfinance-v290.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v291.zip",
+      "sha256": "f87793c556b2e7652447221a825bb8e7d41c4da591db95f81ce927f406aeb59c",
+      "upload_as": "familyfinance-v291.zip"
     },
     "windows": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v290.zip",
-      "sha256": "be4b8424ca35b564c02434f4b7fc08ae892740972d51efd3dbff1de7fed10fa9",
-      "upload_as": "familyfinance-windows-v290.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v291.zip",
+      "sha256": "613a7a64a854e5a2d994a33bea73f7cd3a5bd4ff7402d530247710ea64ec8359",
+      "upload_as": "familyfinance-windows-v291.zip"
     }
   }
 }
