@@ -1,16 +1,16 @@
 {
-  "version": "v292",
-  "notes": "Kostentrend: der laufende Monat wird jetzt hochgerechnet (vorher gewann der gemessene Teilwert der ersten Tage) und zeigt gemessenen und hochgerechneten Anteil getrennt. Einspeiseverguetung wird wie der Einkauf prognostiziert -- vorher stand im laufenden Monat ein Teil-Einkauf gegen eine Voll-Verguetung (Strom netto fast null oder negativ), und kuenftige Monate hatten gar keine Verguetung.",
+  "version": "v293",
+  "notes": "Bankanbindung: Lehnt die Bank den Verbindungsaufbau ab, wird jetzt ihr tatsaechlicher Rueckmeldecode samt Text angezeigt (vorher nur 'Could not find system_id'). PIN-/Kennungsfehler werden dabei zuverlaessig erkannt und pausieren die automatischen Abrufe.",
   "platforms": {
     "mac": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v292.zip",
-      "sha256": "b94346a946ebb1c9f9df19550e90aec0f9f048c5bec8fc6a1bda4861f7e74a46",
-      "upload_as": "familyfinance-v292.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v293.zip",
+      "sha256": "27767a63dbb8bae22bb4278d1a867689fdba267ce680b3b3d63e6d88c98833dc",
+      "upload_as": "familyfinance-v293.zip"
     },
     "windows": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v292.zip",
-      "sha256": "f7e8f4a2cc5d3b3add1a73cefa8018ad1b696bd16bb40ae362e2d1827d5fa3ef",
-      "upload_as": "familyfinance-windows-v292.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v293.zip",
+      "sha256": "901fcef8314d10b408a03fad232fb53d21f9eb2cc6507fe75eedbe494566e9ca",
+      "upload_as": "familyfinance-windows-v293.zip"
     }
   }
 }
