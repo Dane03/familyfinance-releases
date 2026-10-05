@@ -1,16 +1,16 @@
 {
-  "version": "v291",
-  "notes": "Strom: neuer Chart 'Strom-Einkauf je Monat' (Netzbezug) direkt unter dem Hausverbrauch -- dieselben Werte, auf denen Abschlag und Jahresabrechnung beruhen. Mit Zeitraumwahl, Monatlich/Taeglich/Jahresvergleich, Prognose (hell) und geteiltem laufenden Monat.",
+  "version": "v292",
+  "notes": "Kostentrend: der laufende Monat wird jetzt hochgerechnet (vorher gewann der gemessene Teilwert der ersten Tage) und zeigt gemessenen und hochgerechneten Anteil getrennt. Einspeiseverguetung wird wie der Einkauf prognostiziert -- vorher stand im laufenden Monat ein Teil-Einkauf gegen eine Voll-Verguetung (Strom netto fast null oder negativ), und kuenftige Monate hatten gar keine Verguetung.",
   "platforms": {
     "mac": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v291.zip",
-      "sha256": "f87793c556b2e7652447221a825bb8e7d41c4da591db95f81ce927f406aeb59c",
-      "upload_as": "familyfinance-v291.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v292.zip",
+      "sha256": "b94346a946ebb1c9f9df19550e90aec0f9f048c5bec8fc6a1bda4861f7e74a46",
+      "upload_as": "familyfinance-v292.zip"
     },
     "windows": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v291.zip",
-      "sha256": "613a7a64a854e5a2d994a33bea73f7cd3a5bd4ff7402d530247710ea64ec8359",
-      "upload_as": "familyfinance-windows-v291.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v292.zip",
+      "sha256": "f7e8f4a2cc5d3b3add1a73cefa8018ad1b696bd16bb40ae362e2d1827d5fa3ef",
+      "upload_as": "familyfinance-windows-v292.zip"
     }
   }
 }
