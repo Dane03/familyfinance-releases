@@ -1,16 +1,16 @@
 {
-  "version": "v293",
-  "notes": "Bankanbindung: Lehnt die Bank den Verbindungsaufbau ab, wird jetzt ihr tatsaechlicher Rueckmeldecode samt Text angezeigt (vorher nur 'Could not find system_id'). PIN-/Kennungsfehler werden dabei zuverlaessig erkannt und pausieren die automatischen Abrufe.",
+  "version": "v294",
+  "notes": "Bankumsaetze: Zeilen brechen auf dem iPhone jetzt um, lange Verwendungszwecke und Zuordnungen werden nicht mehr abgeschnitten (bbBank).",
   "platforms": {
     "mac": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v293.zip",
-      "sha256": "27767a63dbb8bae22bb4278d1a867689fdba267ce680b3b3d63e6d88c98833dc",
-      "upload_as": "familyfinance-v293.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v294.zip",
+      "sha256": "aa673d2ac10113b6aafba1b8fb929894a47b6b08c1d23b01a58d5c6cda00ba9c",
+      "upload_as": "familyfinance-v294.zip"
     },
     "windows": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v293.zip",
-      "sha256": "901fcef8314d10b408a03fad232fb53d21f9eb2cc6507fe75eedbe494566e9ca",
-      "upload_as": "familyfinance-windows-v293.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v294.zip",
+      "sha256": "a30a5c41207e2f7052933605517f8e2a3a6820d39e526c4479bf69f0365a1c34",
+      "upload_as": "familyfinance-windows-v294.zip"
     }
   }
 }
