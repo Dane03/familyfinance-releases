@@ -1,16 +1,16 @@
 {
-  "version": "v295",
-  "notes": "FinTS: Die Registrierungsnummer wird jetzt unveraendert an die Bank gesendet (bbBank meldete 9078 'Software nicht registriert', weil sie durch den Produktnamen ueberschrieben wurde).",
+  "version": "v296",
+  "notes": "FinTS-Diagnose: Bei Meldung 9078 zeigt die App jetzt, welche Produkt-ID (Anfang/Ende/Laenge) tatsaechlich gesendet wurde.",
   "platforms": {
     "mac": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v295.zip",
-      "sha256": "5c3b37b9d8df49db71b7c02b49c34e526ef0d97a027c55ce7aacd172b6f2b06e",
-      "upload_as": "familyfinance-v295.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v296.zip",
+      "sha256": "28ae9bbb79170096b4982e8fe0df05391009b51b3eff0fad309bb1abc720a4fd",
+      "upload_as": "familyfinance-v296.zip"
     },
     "windows": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v295.zip",
-      "sha256": "014c8dc94bac466603f4274d024813842ea44e2b94d91e41e6ed134d552c7f4c",
-      "upload_as": "familyfinance-windows-v295.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v296.zip",
+      "sha256": "39440a298f8142da0876ec326547643f29a249a750a4210b25c518f6d89896ef",
+      "upload_as": "familyfinance-windows-v296.zip"
     }
   }
 }
