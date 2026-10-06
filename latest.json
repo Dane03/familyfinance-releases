@@ -1,16 +1,16 @@
 {
-  "version": "v300",
-  "notes": "Bankkonten: neues Konto/Depot direkt aus dem Bankkonto anlegen; ein Bankkonto je Vermoegenseintrag (1:1).",
+  "version": "v304",
+  "notes": "Backup-Job repariert (taegliche Vermoegens-Momentaufnahme), ungenutzte Imports entfernt, Review-Skripte im Projekt.",
   "platforms": {
     "mac": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v300.zip",
-      "sha256": "ef60290a7ca41d5227ff77ec0715f761ec4fed2ad10437f98e6e31f13cfe0036",
-      "upload_as": "familyfinance-v300.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v304.zip",
+      "sha256": "fc24853129dee6685860fd3a76a252713ad77fee4872bc4be5520bbdde601c25",
+      "upload_as": "familyfinance-v304.zip"
     },
     "windows": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v300.zip",
-      "sha256": "18f7ca9dfab95e55ac5cbc01252fb64147665c56feeddd36ae8e640fa2e58d14",
-      "upload_as": "familyfinance-windows-v300.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v304.zip",
+      "sha256": "32c5f9f65bf130ab0abf83d327c7e7bed409ceb35c92a33f5d1d342950817b72",
+      "upload_as": "familyfinance-windows-v304.zip"
     }
   }
 }
