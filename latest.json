@@ -1,16 +1,16 @@
 {
-  "version": "v298",
-  "notes": "Bank-Verknuepfung: Neben Konten koennen jetzt auch Depots zugeordnet werden (z.B. ING-Depot).",
+  "version": "v300",
+  "notes": "Bankkonten: neues Konto/Depot direkt aus dem Bankkonto anlegen; ein Bankkonto je Vermoegenseintrag (1:1).",
   "platforms": {
     "mac": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v298.zip",
-      "sha256": "3c575d8e158cae407d51990f6752b916a1d98748b377b2523154507501967bf1",
-      "upload_as": "familyfinance-v298.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v300.zip",
+      "sha256": "ef60290a7ca41d5227ff77ec0715f761ec4fed2ad10437f98e6e31f13cfe0036",
+      "upload_as": "familyfinance-v300.zip"
     },
     "windows": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v298.zip",
-      "sha256": "90f1e37ae9faaef5bff4c13ebccfec56cff105b27bb635ce808b2faf747bb620",
-      "upload_as": "familyfinance-windows-v298.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v300.zip",
+      "sha256": "18f7ca9dfab95e55ac5cbc01252fb64147665c56feeddd36ae8e640fa2e58d14",
+      "upload_as": "familyfinance-windows-v300.zip"
     }
   }
 }
