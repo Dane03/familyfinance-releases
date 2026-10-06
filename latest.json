@@ -1,16 +1,16 @@
 {
-  "version": "v296",
-  "notes": "FinTS-Diagnose: Bei Meldung 9078 zeigt die App jetzt, welche Produkt-ID (Anfang/Ende/Laenge) tatsaechlich gesendet wurde.",
+  "version": "v298",
+  "notes": "Bank-Verknuepfung: Neben Konten koennen jetzt auch Depots zugeordnet werden (z.B. ING-Depot).",
   "platforms": {
     "mac": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v296.zip",
-      "sha256": "28ae9bbb79170096b4982e8fe0df05391009b51b3eff0fad309bb1abc720a4fd",
-      "upload_as": "familyfinance-v296.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v298.zip",
+      "sha256": "3c575d8e158cae407d51990f6752b916a1d98748b377b2523154507501967bf1",
+      "upload_as": "familyfinance-v298.zip"
     },
     "windows": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v296.zip",
-      "sha256": "39440a298f8142da0876ec326547643f29a249a750a4210b25c518f6d89896ef",
-      "upload_as": "familyfinance-windows-v296.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v298.zip",
+      "sha256": "90f1e37ae9faaef5bff4c13ebccfec56cff105b27bb635ce808b2faf747bb620",
+      "upload_as": "familyfinance-windows-v298.zip"
     }
   }
 }
