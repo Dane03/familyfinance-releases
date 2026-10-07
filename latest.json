@@ -1,16 +1,16 @@
 {
-  "version": "v308",
-  "notes": "Verknüpfte Darlehen wie Konten: In Verbindlichkeiten zeigt ⋯ bei einem Darlehen jetzt Umsätze, Bankkonto zuordnen und Bankverknüpfung lösen; verknüpfte Darlehen tragen die Markierung „Bank“.",
+  "version": "v309",
+  "notes": "Vermögensübersicht: Mit Darlehen verknüpfte Bankkonten werden nicht mehr als eigener Bereich angezeigt – nur noch noch nicht zugeordnete Konten. Umsätze und Lösen über ⋯ beim Darlehen.",
   "platforms": {
     "mac": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v308.zip",
-      "sha256": "7fc02d8553ffbe0358dc52c25d64c7c7d015be3da413e3c87df23ec61c8e6a42",
-      "upload_as": "familyfinance-v308.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v309.zip",
+      "sha256": "6d32d679b77eeae6b461b391ca147fb3b012552da748dfacfe2efe2c011b71cc",
+      "upload_as": "familyfinance-v309.zip"
     },
     "windows": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v308.zip",
-      "sha256": "2b38495bdc5cd14e75411d12ef561ea267e34b14cd70ca84e46615913326963b",
-      "upload_as": "familyfinance-windows-v308.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v309.zip",
+      "sha256": "19cf0d9305056a397f6f8e8e190b192d2c90c3accd5ecac2dad5c7038f96d82f",
+      "upload_as": "familyfinance-windows-v309.zip"
     }
   }
 }
