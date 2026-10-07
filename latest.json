@@ -1,16 +1,16 @@
 {
-  "version": "v309",
-  "notes": "Vermögensübersicht: Mit Darlehen verknüpfte Bankkonten werden nicht mehr als eigener Bereich angezeigt – nur noch noch nicht zugeordnete Konten. Umsätze und Lösen über ⋯ beim Darlehen.",
+  "version": "v311",
+  "notes": "Bankumsätze: Die Zuordnung wird jetzt auch bei Verträgen ohne manuell gesetzten Namen angezeigt (z. B. Versicherungen); Suche und Zuordnungs-Vorschläge nutzen denselben Namen.",
   "platforms": {
     "mac": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v309.zip",
-      "sha256": "6d32d679b77eeae6b461b391ca147fb3b012552da748dfacfe2efe2c011b71cc",
-      "upload_as": "familyfinance-v309.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v311.zip",
+      "sha256": "0f69ca9b11f1d533a374a6f7a5fd1e8ded128ca04b4d24a82b5b25c0ec7e861c",
+      "upload_as": "familyfinance-v311.zip"
     },
     "windows": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v309.zip",
-      "sha256": "19cf0d9305056a397f6f8e8e190b192d2c90c3accd5ecac2dad5c7038f96d82f",
-      "upload_as": "familyfinance-windows-v309.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v311.zip",
+      "sha256": "29f7ce4c86dcb39c0e1e6525e521a195acd1cc02e6925889bb1eccb276c0624e",
+      "upload_as": "familyfinance-windows-v311.zip"
     }
   }
 }
