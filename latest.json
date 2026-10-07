@@ -1,16 +1,16 @@
 {
-  "version": "v305",
-  "notes": "Hinweise aus Bankumsaetzen: IBAN getrennt vom Namen, mehr Details zur Buchung (aufklappbar), Ablehnen mit Wiederherstellen; Zuordnen-Dialog und Umsatzliste mit IBAN/Verwendungszweck.",
+  "version": "v306",
+  "notes": "Bankkonten ignorieren: Vollmachtskonten (nicht unsere Konten) lassen sich in der Karte „Noch nicht zugeordnete Bankkonten“ ignorieren – kein Saldo und keine Umsätze mehr, jederzeit wiederherstellbar.",
   "platforms": {
     "mac": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v305.zip",
-      "sha256": "0a17480174db6d82cbfc5fe7e0a5f76611ca94917f9615fbc2dbc329e492b2e3",
-      "upload_as": "familyfinance-v305.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v306.zip",
+      "sha256": "43ab2dbae1d4cd774a25293ab283ef0c9aa102f5c69219828e4444eaec9db4e0",
+      "upload_as": "familyfinance-v306.zip"
     },
     "windows": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v305.zip",
-      "sha256": "3c1d4cd5f860994600912cbc662996691adef6ce1e5863c5a53a2e422e772a41",
-      "upload_as": "familyfinance-windows-v305.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v306.zip",
+      "sha256": "9cc36fda11352e81fcf8b4a89d8327959832519f82e08ae04d984957b8cf8590",
+      "upload_as": "familyfinance-windows-v306.zip"
     }
   }
 }
