@@ -1,16 +1,16 @@
 {
-  "version": "v311",
-  "notes": "Bankumsätze: Die Zuordnung wird jetzt auch bei Verträgen ohne manuell gesetzten Namen angezeigt (z. B. Versicherungen); Suche und Zuordnungs-Vorschläge nutzen denselben Namen.",
+  "version": "v312",
+  "notes": "Beleg-Betrachter: PDFs werden jetzt so skaliert, dass eine ganze Seite auf den Bildschirm passt (auch bei riesigen Scan-Seiten). Zoom über − ⤢ ＋, Pinch, Doppeltippen.",
   "platforms": {
     "mac": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v311.zip",
-      "sha256": "0f69ca9b11f1d533a374a6f7a5fd1e8ded128ca04b4d24a82b5b25c0ec7e861c",
-      "upload_as": "familyfinance-v311.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v312.zip",
+      "sha256": "e758f978ae7ea967f53d0014e839f9f93b6633f6c3c26a042dfe9f5aeeeefd99",
+      "upload_as": "familyfinance-v312.zip"
     },
     "windows": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v311.zip",
-      "sha256": "29f7ce4c86dcb39c0e1e6525e521a195acd1cc02e6925889bb1eccb276c0624e",
-      "upload_as": "familyfinance-windows-v311.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v312.zip",
+      "sha256": "dc81078b8b2ad4ca082af59b800473f729bca6e20c480ec421f2cd5a02a203a5",
+      "upload_as": "familyfinance-windows-v312.zip"
     }
   }
 }
