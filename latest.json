@@ -1,16 +1,16 @@
 {
-  "version": "v312",
-  "notes": "Beleg-Betrachter: PDFs werden jetzt so skaliert, dass eine ganze Seite auf den Bildschirm passt (auch bei riesigen Scan-Seiten). Zoom über − ⤢ ＋, Pinch, Doppeltippen.",
+  "version": "v313",
+  "notes": "Wasser/Gas: Mit hinterlegtem Abrechnungsdatum läuft die Prognose (Verbrauch, optimaler Abschlag, erwartete Differenz, Jahreskosten) ab diesem Datum über 12 Monate statt ab 1. Januar. Beim Wasser steht unter den Jahreskosten jetzt m³ Wasser statt „Strom-Einkauf“.",
   "platforms": {
     "mac": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v312.zip",
-      "sha256": "e758f978ae7ea967f53d0014e839f9f93b6633f6c3c26a042dfe9f5aeeeefd99",
-      "upload_as": "familyfinance-v312.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v313.zip",
+      "sha256": "f666bb7af6b666948b52ce342b24a88e1965ff48c2c8792d0d8a1a2853e8b187",
+      "upload_as": "familyfinance-v313.zip"
     },
     "windows": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v312.zip",
-      "sha256": "dc81078b8b2ad4ca082af59b800473f729bca6e20c480ec421f2cd5a02a203a5",
-      "upload_as": "familyfinance-windows-v312.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v313.zip",
+      "sha256": "2ba6da3312fe200d663a9ec6cb2376b866bda15d1d6936682225b18e16c8f48e",
+      "upload_as": "familyfinance-windows-v313.zip"
     }
   }
 }
