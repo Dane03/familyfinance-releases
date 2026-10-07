@@ -1,16 +1,16 @@
 {
-  "version": "v313",
-  "notes": "Wasser/Gas: Mit hinterlegtem Abrechnungsdatum läuft die Prognose (Verbrauch, optimaler Abschlag, erwartete Differenz, Jahreskosten) ab diesem Datum über 12 Monate statt ab 1. Januar. Beim Wasser steht unter den Jahreskosten jetzt m³ Wasser statt „Strom-Einkauf“.",
+  "version": "v314",
+  "notes": "Energie-Zähler (Gas, Wasser, Strombezug, Einspeisung) sind jetzt live mit Ausgaben bzw. Einnahmen verknüpft: Der Abschlag kommt immer aus dem Vertrag, automatisch erkannt oder per Auswahl; Änderungen unter Ausgaben gelten sofort in Prognose, Abrechnung und Report.",
   "platforms": {
     "mac": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v313.zip",
-      "sha256": "f666bb7af6b666948b52ce342b24a88e1965ff48c2c8792d0d8a1a2853e8b187",
-      "upload_as": "familyfinance-v313.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v314.zip",
+      "sha256": "9741becedc84f81ea2e55cdf2f7943cf2a3035551af47b07df1cb209f5e0c4bc",
+      "upload_as": "familyfinance-v314.zip"
     },
     "windows": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v313.zip",
-      "sha256": "2ba6da3312fe200d663a9ec6cb2376b866bda15d1d6936682225b18e16c8f48e",
-      "upload_as": "familyfinance-windows-v313.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v314.zip",
+      "sha256": "ea43d04c8ac034fc3a739e1eb96d788504621290e163544a1736399df38bfba6",
+      "upload_as": "familyfinance-windows-v314.zip"
     }
   }
 }
