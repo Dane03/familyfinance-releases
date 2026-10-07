@@ -1,16 +1,16 @@
 {
-  "version": "v306",
-  "notes": "Bankkonten ignorieren: Vollmachtskonten (nicht unsere Konten) lassen sich in der Karte „Noch nicht zugeordnete Bankkonten“ ignorieren – kein Saldo und keine Umsätze mehr, jederzeit wiederherstellbar.",
+  "version": "v307",
+  "notes": "Darlehen mit Bankkonten verknüpfen: Die Restschuld kommt künftig von der Bank. Beim Zuordnen zeigen bestehende Konten, Depots und Darlehen ihren Stand in der App. Dazu: Vollmachtskonten lassen sich ignorieren.",
   "platforms": {
     "mac": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v306.zip",
-      "sha256": "43ab2dbae1d4cd774a25293ab283ef0c9aa102f5c69219828e4444eaec9db4e0",
-      "upload_as": "familyfinance-v306.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v307.zip",
+      "sha256": "73e976d783529b37f2417c210c4e580bec546309d7aeb3b9d88c9100fc6b3f09",
+      "upload_as": "familyfinance-v307.zip"
     },
     "windows": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v306.zip",
-      "sha256": "9cc36fda11352e81fcf8b4a89d8327959832519f82e08ae04d984957b8cf8590",
-      "upload_as": "familyfinance-windows-v306.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v307.zip",
+      "sha256": "ad09c3b9c0517d1ad963f131313c2d82d127ca8324092991c0b73f8a2fe77b1b",
+      "upload_as": "familyfinance-windows-v307.zip"
     }
   }
 }
