@@ -1,16 +1,16 @@
 {
-  "version": "v314",
-  "notes": "Energie-Zähler (Gas, Wasser, Strombezug, Einspeisung) sind jetzt live mit Ausgaben bzw. Einnahmen verknüpft: Der Abschlag kommt immer aus dem Vertrag, automatisch erkannt oder per Auswahl; Änderungen unter Ausgaben gelten sofort in Prognose, Abrechnung und Report.",
+  "version": "v315",
+  "notes": "Vermögenskonten werden nicht mehr gelöscht, sondern archiviert: Belege, Depotpositionen und Bank-Umsätze bleiben erhalten, das Konto verschwindet aus Übersicht und Summen und lässt sich im neuen Archiv-Bereich unter Vermögen wiederherstellen.",
   "platforms": {
     "mac": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v314.zip",
-      "sha256": "9741becedc84f81ea2e55cdf2f7943cf2a3035551af47b07df1cb209f5e0c4bc",
-      "upload_as": "familyfinance-v314.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v315.zip",
+      "sha256": "361313a679231740a5a86786bc3383ff47b580ffe860f754cd51b1aff1d03987",
+      "upload_as": "familyfinance-v315.zip"
     },
     "windows": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v314.zip",
-      "sha256": "ea43d04c8ac034fc3a739e1eb96d788504621290e163544a1736399df38bfba6",
-      "upload_as": "familyfinance-windows-v314.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v315.zip",
+      "sha256": "d076a198f1c2c6115910b746e1f24e5b7f7a48eef84b556f3d9b2fa80f66e47c",
+      "upload_as": "familyfinance-windows-v315.zip"
     }
   }
 }
