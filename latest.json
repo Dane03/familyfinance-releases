@@ -1,16 +1,16 @@
 {
-  "version": "v315",
-  "notes": "Vermögenskonten werden nicht mehr gelöscht, sondern archiviert: Belege, Depotpositionen und Bank-Umsätze bleiben erhalten, das Konto verschwindet aus Übersicht und Summen und lässt sich im neuen Archiv-Bereich unter Vermögen wiederherstellen.",
+  "version": "v316",
+  "notes": "Sicherheits-Update: Die Zwei-Faktor-Anmeldung liess sich mit dem Passwort allein umgehen (eigenen Passkey/TOTP nach dem Passwort-Schritt einrichten) -- behoben, ausserdem Fehlversuchs-Sperre fuer den Authenticator-Code. Zwei Luecken fuer eingeschleusten Code geschlossen (PDF-Betrachter, Datei-Import). Hinweis: Ein neues Geraet ohne eigenen Passkey meldet sich kuenftig mit Passwort + Authenticator-Code an und legt den Passkey danach in den Einstellungen an.",
   "platforms": {
     "mac": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v315.zip",
-      "sha256": "361313a679231740a5a86786bc3383ff47b580ffe860f754cd51b1aff1d03987",
-      "upload_as": "familyfinance-v315.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v316.zip",
+      "sha256": "f06b075b74e19e42630229fa0c789b9f273e530a3e9c0cc07bf1a9489c332056",
+      "upload_as": "familyfinance-v316.zip"
     },
     "windows": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v315.zip",
-      "sha256": "d076a198f1c2c6115910b746e1f24e5b7f7a48eef84b556f3d9b2fa80f66e47c",
-      "upload_as": "familyfinance-windows-v315.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v316.zip",
+      "sha256": "eccf79897a3fe006d61510d7f44155e9020273e822e10f3cf6247e3060d17c62",
+      "upload_as": "familyfinance-windows-v316.zip"
     }
   }
 }
