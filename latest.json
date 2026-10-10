@@ -1,16 +1,16 @@
 {
-  "version": "v316",
-  "notes": "Sicherheits-Update: Die Zwei-Faktor-Anmeldung liess sich mit dem Passwort allein umgehen (eigenen Passkey/TOTP nach dem Passwort-Schritt einrichten) -- behoben, ausserdem Fehlversuchs-Sperre fuer den Authenticator-Code. Zwei Luecken fuer eingeschleusten Code geschlossen (PDF-Betrachter, Datei-Import). Hinweis: Ein neues Geraet ohne eigenen Passkey meldet sich kuenftig mit Passwort + Authenticator-Code an und legt den Passkey danach in den Einstellungen an.",
+  "version": "v317",
+  "notes": "Sicherheits-Update: Abmelden macht die Sitzung sofort ungueltig, Authenticator-Codes sind nur einmal verwendbar, Passkey-Anmeldung klappt auch ueber die Tailscale-Adresse. Zusaetzlicher Schutz gegen eingeschleusten Code (Content-Security-Policy), hochgeladene HTML/SVG-Dateien werden nur noch heruntergeladen. Upload-Groessenlimit und Dateinamen von Lohnabrechnungen abgesichert.",
   "platforms": {
     "mac": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v316.zip",
-      "sha256": "f06b075b74e19e42630229fa0c789b9f273e530a3e9c0cc07bf1a9489c332056",
-      "upload_as": "familyfinance-v316.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v317.zip",
+      "sha256": "e7fa7d487ed8650d569060c567f3fe44c5256ea532512a1915463b6b88ffa8fe",
+      "upload_as": "familyfinance-v317.zip"
     },
     "windows": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v316.zip",
-      "sha256": "eccf79897a3fe006d61510d7f44155e9020273e822e10f3cf6247e3060d17c62",
-      "upload_as": "familyfinance-windows-v316.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v317.zip",
+      "sha256": "5c7087a8a9b1ec3dfe439c50a6d52d261dfd361c2ae5843203583b8183451605",
+      "upload_as": "familyfinance-windows-v317.zip"
     }
   }
 }
