@@ -1,16 +1,16 @@
 {
-  "version": "v320",
-  "notes": "Bank-Bibliotheken (fints) sind bewusst fest auf eine gepruefte Version gesetzt und werden nicht mehr dauerhaft als Update angezeigt. Enthaelt: verschobene Belege werden wiedergefunden (v319), Update-Schleife behoben (v318).",
+  "version": "v321",
+  "notes": "Bank-Bibliothek fints auf die gepruefte Version 5.0.1 angehoben (nach dem App-Update unter Einstellungen -> Updates das Python-Paket einspielen). Enthaelt die Korrekturen aus v318-v320.",
   "platforms": {
     "mac": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v320.zip",
-      "sha256": "b6a98ebcbc4f072919483a7c5faec70af9f91f871f293ac450f73e0cf21f3ae6",
-      "upload_as": "familyfinance-v320.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v321.zip",
+      "sha256": "1c48665ae51bdd7ea71951fbb1b900275d21922fc3a388878b59f356a6b918c2",
+      "upload_as": "familyfinance-v321.zip"
     },
     "windows": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v320.zip",
-      "sha256": "ac1acc56809ba34d6329d9ab723a0147044bd37e7f896bde549f4559511016a5",
-      "upload_as": "familyfinance-windows-v320.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v321.zip",
+      "sha256": "aff66a5a067ad13c7f3003ccd0117d73e09ece4bdff8e251731a15c3e027025f",
+      "upload_as": "familyfinance-windows-v321.zip"
     }
   }
 }
