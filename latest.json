@@ -1,16 +1,16 @@
 {
-  "version": "v322",
-  "notes": "Neu: Kostenbeteiligung -- eine Einnahme kann anteilig Ausgaben decken (z.B. Anteil Haus = 1/2 Gas, Wasser, Strom). Weicht der Betrag ab, erscheint ein Hinweis. Die Dashboard-Karte 'Faelligkeiten ...' sammelt jetzt alle Hinweise (auch neue Bankumsaetze, Preisaenderungen) mit Sprung an die passende Stelle.",
+  "version": "v323",
+  "notes": "Hinweise im Dashboard lassen sich mit X ablehnen (z.B. Abos, die in einem Paket enthalten sind) und unter 'Abgelehnte Hinweise' wiederherstellen. Die Kostenbeteiligung Haus umfasst jetzt auch die Haelfte des Telekom-Internets.",
   "platforms": {
     "mac": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v322.zip",
-      "sha256": "a621e483e416429803f383d77940a37082cdc5269d6dd76c9b7c0ee7179faece",
-      "upload_as": "familyfinance-v322.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v323.zip",
+      "sha256": "330c03f54e8329bbcd476ea275460144d57b4fae4e4e90a57d8453c1d4ee1c34",
+      "upload_as": "familyfinance-v323.zip"
     },
     "windows": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v322.zip",
-      "sha256": "79a064c37037268b435feda101d62ff19d31b2131fd8499847b7d544429d246b",
-      "upload_as": "familyfinance-windows-v322.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v323.zip",
+      "sha256": "acfdb4b25256091790e450ccd5403a9e54f559f50c56cf11cb38f82a39702290",
+      "upload_as": "familyfinance-windows-v323.zip"
     }
   }
 }
