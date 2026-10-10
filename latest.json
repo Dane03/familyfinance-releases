@@ -1,16 +1,16 @@
 {
-  "version": "v319",
-  "notes": "Belege und Dokumente, deren Datei verschoben oder umbenannt wurde, werden automatisch wiedergefunden (statt 'Beleg-Datei fehlt'). Liegt eine Datei nur in iCloud, erklaert die App, wie man sie wieder laedt. Enthaelt die Korrektur der Update-Schleife (v318).",
+  "version": "v320",
+  "notes": "Bank-Bibliotheken (fints) sind bewusst fest auf eine gepruefte Version gesetzt und werden nicht mehr dauerhaft als Update angezeigt. Enthaelt: verschobene Belege werden wiedergefunden (v319), Update-Schleife behoben (v318).",
   "platforms": {
     "mac": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v319.zip",
-      "sha256": "b6ad66cac1831ab26985974603cf99234caaba4d5734265c47989b6197b83798",
-      "upload_as": "familyfinance-v319.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v320.zip",
+      "sha256": "b6a98ebcbc4f072919483a7c5faec70af9f91f871f293ac450f73e0cf21f3ae6",
+      "upload_as": "familyfinance-v320.zip"
     },
     "windows": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v319.zip",
-      "sha256": "6e23882927082a7d53cdc2c42340fb6edffb8e2e09df77ec6d96169842d7ceb7",
-      "upload_as": "familyfinance-windows-v319.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v320.zip",
+      "sha256": "ac1acc56809ba34d6329d9ab723a0147044bd37e7f896bde549f4559511016a5",
+      "upload_as": "familyfinance-windows-v320.zip"
     }
   }
 }
