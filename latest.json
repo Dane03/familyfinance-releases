@@ -1,16 +1,16 @@
 {
-  "version": "v323",
-  "notes": "Hinweise im Dashboard lassen sich mit X ablehnen (z.B. Abos, die in einem Paket enthalten sind) und unter 'Abgelehnte Hinweise' wiederherstellen. Die Kostenbeteiligung Haus umfasst jetzt auch die Haelfte des Telekom-Internets.",
+  "version": "v324",
+  "notes": "Strom: Tagesrate im laufenden Monat korrigiert, Aufteilung Haushalt/Auto ergibt jetzt die vollen Jahreskosten. Gas: Hinweis zum Umrechnungsfaktor (Brennwert × Zustandszahl).",
   "platforms": {
     "mac": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v323.zip",
-      "sha256": "330c03f54e8329bbcd476ea275460144d57b4fae4e4e90a57d8453c1d4ee1c34",
-      "upload_as": "familyfinance-v323.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v324.zip",
+      "sha256": "ba7f921c5eb61d116565ebdf46774db694d8422ffcd8a27db02331b176503b5a",
+      "upload_as": "familyfinance-v324.zip"
     },
     "windows": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v323.zip",
-      "sha256": "acfdb4b25256091790e450ccd5403a9e54f559f50c56cf11cb38f82a39702290",
-      "upload_as": "familyfinance-windows-v323.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v324.zip",
+      "sha256": "ba7f921c5eb61d116565ebdf46774db694d8422ffcd8a27db02331b176503b5a",
+      "upload_as": "familyfinance-windows-v324.zip"
     }
   }
 }
