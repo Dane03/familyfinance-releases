@@ -1,16 +1,16 @@
 {
-  "version": "v324",
-  "notes": "Strom: Tagesrate im laufenden Monat korrigiert, Aufteilung Haushalt/Auto ergibt jetzt die vollen Jahreskosten. Gas: Hinweis zum Umrechnungsfaktor (Brennwert × Zustandszahl).",
+  "version": "v326",
+  "notes": "Vorsorge: kein Absturz mehr bei Geburtstag am 29.02.; Leerzustände mit direktem Knopf. Finanzierung: 0-%-Darlehen (z. B. KfW) zählen im Tilgungsplan mit. Kostenbeteiligung warnt bei doppelt gerechnetem Anteil. iPhone: größere Tippflächen.",
   "platforms": {
     "mac": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v324.zip",
-      "sha256": "ba7f921c5eb61d116565ebdf46774db694d8422ffcd8a27db02331b176503b5a",
-      "upload_as": "familyfinance-v324.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v326.zip",
+      "sha256": "c010176c3e41e1c88942c97b619b8ee78671d361711c70aa367e0a3bb45df913",
+      "upload_as": "familyfinance-v326.zip"
     },
     "windows": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v324.zip",
-      "sha256": "ba7f921c5eb61d116565ebdf46774db694d8422ffcd8a27db02331b176503b5a",
-      "upload_as": "familyfinance-windows-v324.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v326.zip",
+      "sha256": "ad62c312d9dfd5dc3d6b390e6d10b822c22855ba30f1fb735d5b64a3e0466773",
+      "upload_as": "familyfinance-windows-v326.zip"
     }
   }
 }
