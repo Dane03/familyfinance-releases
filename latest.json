@@ -1,16 +1,16 @@
 {
-  "version": "v326",
-  "notes": "Vorsorge: kein Absturz mehr bei Geburtstag am 29.02.; Leerzustände mit direktem Knopf. Finanzierung: 0-%-Darlehen (z. B. KfW) zählen im Tilgungsplan mit. Kostenbeteiligung warnt bei doppelt gerechnetem Anteil. iPhone: größere Tippflächen.",
+  "version": "v327",
+  "notes": "Vermögen: Einzelne Vermögenswerte lassen sich aus dem Gesamtvermögen ausnehmen (Haken im Dialog oder ⋯-Menü) – wirkt auch rückwirkend im Verlauf.",
   "platforms": {
     "mac": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v326.zip",
-      "sha256": "c010176c3e41e1c88942c97b619b8ee78671d361711c70aa367e0a3bb45df913",
-      "upload_as": "familyfinance-v326.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v327.zip",
+      "sha256": "a7d9fc69133f1cfd9c14d89290ebce72bb42284273a144e16a373316ae3be9c7",
+      "upload_as": "familyfinance-v327.zip"
     },
     "windows": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v326.zip",
-      "sha256": "ad62c312d9dfd5dc3d6b390e6d10b822c22855ba30f1fb735d5b64a3e0466773",
-      "upload_as": "familyfinance-windows-v326.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v327.zip",
+      "sha256": "48a2a3c936e1f9b4bc4caf4bf8446ea03abdc3b4644b40cb70e436c845235df1",
+      "upload_as": "familyfinance-windows-v327.zip"
     }
   }
 }
