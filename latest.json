@@ -1,16 +1,16 @@
 {
-  "version": "v327",
-  "notes": "Vermögen: Einzelne Vermögenswerte lassen sich aus dem Gesamtvermögen ausnehmen (Haken im Dialog oder ⋯-Menü) – wirkt auch rückwirkend im Verlauf.",
+  "version": "v328",
+  "notes": "Darstellung: helle Designs mit sichtbaren Feldern, Linien und lesbaren Hinweisen; Auswahllisten in Dialogen einheitlich; Vorsorge → Absicherung passt aufs iPhone.",
   "platforms": {
     "mac": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v327.zip",
-      "sha256": "a7d9fc69133f1cfd9c14d89290ebce72bb42284273a144e16a373316ae3be9c7",
-      "upload_as": "familyfinance-v327.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v328.zip",
+      "sha256": "25ffe176c229b2ca00725d63de1d0e0fdbff86b807251a6f063bfb33af93865a",
+      "upload_as": "familyfinance-v328.zip"
     },
     "windows": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v327.zip",
-      "sha256": "48a2a3c936e1f9b4bc4caf4bf8446ea03abdc3b4644b40cb70e436c845235df1",
-      "upload_as": "familyfinance-windows-v327.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v328.zip",
+      "sha256": "2e2592c9e271497f96ddcddea6a4527a49f7bad5c82ba51f7dd09e7f5ea716d7",
+      "upload_as": "familyfinance-windows-v328.zip"
     }
   }
 }
