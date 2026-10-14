@@ -1,16 +1,16 @@
 {
-  "version": "v328",
-  "notes": "Darstellung: helle Designs mit sichtbaren Feldern, Linien und lesbaren Hinweisen; Auswahllisten in Dialogen einheitlich; Vorsorge → Absicherung passt aufs iPhone.",
+  "version": "v329",
+  "notes": "Sicherheit: Schutz gegen Anfragen von fremden Webseiten, verständliche Meldung bei zu langen Passwörtern, Zwei-Faktor-Geheimnis nicht mehr im Server-Protokoll.",
   "platforms": {
     "mac": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v328.zip",
-      "sha256": "25ffe176c229b2ca00725d63de1d0e0fdbff86b807251a6f063bfb33af93865a",
-      "upload_as": "familyfinance-v328.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v329.zip",
+      "sha256": "90a2fffa333c6a9e995c590de222b3865546816979e071d6bbd7d869c7a5b43d",
+      "upload_as": "familyfinance-v329.zip"
     },
     "windows": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v328.zip",
-      "sha256": "2e2592c9e271497f96ddcddea6a4527a49f7bad5c82ba51f7dd09e7f5ea716d7",
-      "upload_as": "familyfinance-windows-v328.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v329.zip",
+      "sha256": "59e50ff2995d1ae993a4b7287f970b9692964da0b63e05fbdb3b41a7621e1682",
+      "upload_as": "familyfinance-windows-v329.zip"
     }
   }
 }
