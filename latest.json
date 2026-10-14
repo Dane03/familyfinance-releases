@@ -1,16 +1,16 @@
 {
-  "version": "v329",
-  "notes": "Sicherheit: Schutz gegen Anfragen von fremden Webseiten, verständliche Meldung bei zu langen Passwörtern, Zwei-Faktor-Geheimnis nicht mehr im Server-Protokoll.",
+  "version": "v330",
+  "notes": "Sicherungen werden zusätzlich außerhalb des App-Ordners abgelegt (~/familyfinance-backups) – überleben auch ein versehentliches Löschen oder Verschieben des Ordners.",
   "platforms": {
     "mac": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v329.zip",
-      "sha256": "90a2fffa333c6a9e995c590de222b3865546816979e071d6bbd7d869c7a5b43d",
-      "upload_as": "familyfinance-v329.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v330.zip",
+      "sha256": "d051d0dfe61fe39f4c3596cdeb5e71211084c7807fd09f8ad12f862eda634470",
+      "upload_as": "familyfinance-v330.zip"
     },
     "windows": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v329.zip",
-      "sha256": "59e50ff2995d1ae993a4b7287f970b9692964da0b63e05fbdb3b41a7621e1682",
-      "upload_as": "familyfinance-windows-v329.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v330.zip",
+      "sha256": "edfd5fbf872e7c4953625a770b7418a7cd7368d690c14d9a95c4f68d3bce2fba",
+      "upload_as": "familyfinance-windows-v330.zip"
     }
   }
 }
