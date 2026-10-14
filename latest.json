@@ -1,16 +1,16 @@
 {
-  "version": "v330",
-  "notes": "Sicherungen werden zusätzlich außerhalb des App-Ordners abgelegt (~/familyfinance-backups) – überleben auch ein versehentliches Löschen oder Verschieben des Ordners.",
+  "version": "v331",
+  "notes": "Sicherung: Neben der Datenbank werden jetzt auch alle Belege außerhalb des App-Ordners gespiegelt (~/familyfinance-backups/belege).",
   "platforms": {
     "mac": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v330.zip",
-      "sha256": "d051d0dfe61fe39f4c3596cdeb5e71211084c7807fd09f8ad12f862eda634470",
-      "upload_as": "familyfinance-v330.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v331.zip",
+      "sha256": "8b1a7414d0262d5aaf1cfb15d75cead3e6d41e8cd1a7b19f6242ff0e664180d2",
+      "upload_as": "familyfinance-v331.zip"
     },
     "windows": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v330.zip",
-      "sha256": "edfd5fbf872e7c4953625a770b7418a7cd7368d690c14d9a95c4f68d3bce2fba",
-      "upload_as": "familyfinance-windows-v330.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v331.zip",
+      "sha256": "18bfe0ec99556370437c18e03a7e29b3b52ca729fd78006a8923de37c3195d19",
+      "upload_as": "familyfinance-windows-v331.zip"
     }
   }
 }
