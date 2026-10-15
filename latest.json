@@ -1,16 +1,16 @@
 {
-  "version": "v331",
-  "notes": "Sicherung: Neben der Datenbank werden jetzt auch alle Belege außerhalb des App-Ordners gespiegelt (~/familyfinance-backups/belege).",
+  "version": "v332",
+  "notes": "Löschen sicherer: Einnahmen mit Lohnabrechnungen und Belege von Zählerständen lassen sich ohne Serverfehler und ohne verlorene Dateien löschen; verständliche Meldung statt stillem Fehlschlag.",
   "platforms": {
     "mac": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v331.zip",
-      "sha256": "8b1a7414d0262d5aaf1cfb15d75cead3e6d41e8cd1a7b19f6242ff0e664180d2",
-      "upload_as": "familyfinance-v331.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v332.zip",
+      "sha256": "e27541c0658df794a834966ef5391178fd9a907e51245df9d20a239be4165c7c",
+      "upload_as": "familyfinance-v332.zip"
     },
     "windows": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v331.zip",
-      "sha256": "18bfe0ec99556370437c18e03a7e29b3b52ca729fd78006a8923de37c3195d19",
-      "upload_as": "familyfinance-windows-v331.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v332.zip",
+      "sha256": "724b3d4af4a8fe58a6e45cdc77a0cf7f334759be86bd01f1c89416472c0d0cd5",
+      "upload_as": "familyfinance-windows-v332.zip"
     }
   }
 }
