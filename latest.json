@@ -1,16 +1,16 @@
 {
-  "version": "v333",
-  "notes": "Bankumsätze: Gelernte Zuordnungen berücksichtigen jetzt auch den Betrag – mehrere Verträge oder Einnahmen vom selben Empfänger werden richtig auseinandergehalten.",
+  "version": "v334",
+  "notes": "Prüfungen centgenau: Zuordnung bei mehreren Verträgen desselben Empfängers nur bei exaktem Betrag, Hinweise auf wiederkehrende Abbuchungen nur bei exakt gleichem Betrag (deutlich weniger Fehlalarme), Kostenbeteiligung ab 1 Cent Abweichung.",
   "platforms": {
     "mac": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v333.zip",
-      "sha256": "e823bf74806ab4c4bef2c34b71f82d1a13afb1b7eba502ef3f08f9eeeca4daf8",
-      "upload_as": "familyfinance-v333.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v334.zip",
+      "sha256": "0477f2888f5c208cec1afb5be6000a32eb504fb3023dcc807367450de74682a5",
+      "upload_as": "familyfinance-v334.zip"
     },
     "windows": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v333.zip",
-      "sha256": "8c06d69283a59c0167d0c6801700c573d4698c1b50c3d4181b6842a5aae79059",
-      "upload_as": "familyfinance-windows-v333.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v334.zip",
+      "sha256": "e16001481fdafac709bc074c90ba76fe38a76ca1c01a089b913bb412c7598738",
+      "upload_as": "familyfinance-windows-v334.zip"
     }
   }
 }
