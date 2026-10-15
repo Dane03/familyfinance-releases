@@ -1,16 +1,16 @@
 {
-  "version": "v332",
-  "notes": "Löschen sicherer: Einnahmen mit Lohnabrechnungen und Belege von Zählerständen lassen sich ohne Serverfehler und ohne verlorene Dateien löschen; verständliche Meldung statt stillem Fehlschlag.",
+  "version": "v333",
+  "notes": "Bankumsätze: Gelernte Zuordnungen berücksichtigen jetzt auch den Betrag – mehrere Verträge oder Einnahmen vom selben Empfänger werden richtig auseinandergehalten.",
   "platforms": {
     "mac": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v332.zip",
-      "sha256": "e27541c0658df794a834966ef5391178fd9a907e51245df9d20a239be4165c7c",
-      "upload_as": "familyfinance-v332.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v333.zip",
+      "sha256": "e823bf74806ab4c4bef2c34b71f82d1a13afb1b7eba502ef3f08f9eeeca4daf8",
+      "upload_as": "familyfinance-v333.zip"
     },
     "windows": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v332.zip",
-      "sha256": "724b3d4af4a8fe58a6e45cdc77a0cf7f334759be86bd01f1c89416472c0d0cd5",
-      "upload_as": "familyfinance-windows-v332.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v333.zip",
+      "sha256": "8c06d69283a59c0167d0c6801700c573d4698c1b50c3d4181b6842a5aae79059",
+      "upload_as": "familyfinance-windows-v333.zip"
     }
   }
 }
