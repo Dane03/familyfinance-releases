@@ -1,16 +1,16 @@
 {
-  "version": "v334",
-  "notes": "Prüfungen centgenau: Zuordnung bei mehreren Verträgen desselben Empfängers nur bei exaktem Betrag, Hinweise auf wiederkehrende Abbuchungen nur bei exakt gleichem Betrag (deutlich weniger Fehlalarme), Kostenbeteiligung ab 1 Cent Abweichung.",
+  "version": "v335",
+  "notes": "Externe Sicherung funktioniert jetzt auch, wenn der Ordnername ein # enthaelt (die Kopie fiel bisher still aus). Enthaelt die Aenderungen aus v334: Pruefungen centgenau, Bank-Regeln beruecksichtigen den Betrag.",
   "platforms": {
     "mac": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v334.zip",
-      "sha256": "0477f2888f5c208cec1afb5be6000a32eb504fb3023dcc807367450de74682a5",
-      "upload_as": "familyfinance-v334.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v335.zip",
+      "sha256": "0e6d7d17aa5e02a901bc121ece1da7aa4477b17998f22a022a3c4199b7dd3d62",
+      "upload_as": "familyfinance-v335.zip"
     },
     "windows": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v334.zip",
-      "sha256": "e16001481fdafac709bc074c90ba76fe38a76ca1c01a089b913bb412c7598738",
-      "upload_as": "familyfinance-windows-v334.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v335.zip",
+      "sha256": "f76ae80d54f7c902b2b717d656b298506043beacd7b00a66851325d9c06998bd",
+      "upload_as": "familyfinance-windows-v335.zip"
     }
   }
 }
