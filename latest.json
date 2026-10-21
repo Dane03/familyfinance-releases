@@ -1,16 +1,16 @@
 {
-  "version": "v336",
-  "notes": "iPhone: abgeschnittene Knöpfe und Datumsfelder korrigiert, größere Löschknöpfe.",
+  "version": "v337",
+  "notes": "iPhone: Demo-Hinweis einzeilig, verdeckt keine Inhalte mehr.",
   "platforms": {
     "mac": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v336.zip",
-      "sha256": "a3192dcd44f16118b749e4c6215d0fdc1c7447a5fb8d4d930a2e09967eeea66c",
-      "upload_as": "familyfinance-v336.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v337.zip",
+      "sha256": "037220eaa01eb60e7a6e17a50df83866b53e3eea0a99a674413b14c1a469781b",
+      "upload_as": "familyfinance-v337.zip"
     },
     "windows": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v336.zip",
-      "sha256": "c6b9451764e880790df1eae71e64efc2da379c96eeff55a161c2e6a671944d95",
-      "upload_as": "familyfinance-windows-v336.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v337.zip",
+      "sha256": "51e329ca4bfb168791100241880032acb8af84e5ebc0b21786b38cc7607680de",
+      "upload_as": "familyfinance-windows-v337.zip"
     }
   }
 }
