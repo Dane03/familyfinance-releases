@@ -1,16 +1,16 @@
 {
-  "version": "v337",
-  "notes": "iPhone: Demo-Hinweis einzeilig, verdeckt keine Inhalte mehr.",
+  "version": "v338",
+  "notes": "Sicherheit: Der QR-Code für die Authenticator-App wird direkt mitgeliefert – das Geheimnis steht nicht mehr in einer Web-Adresse.",
   "platforms": {
     "mac": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v337.zip",
-      "sha256": "037220eaa01eb60e7a6e17a50df83866b53e3eea0a99a674413b14c1a469781b",
-      "upload_as": "familyfinance-v337.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v338.zip",
+      "sha256": "3cfde94425fea200421b75ef38c51a1881a1600625b9439f93f07492f4d0d6a3",
+      "upload_as": "familyfinance-v338.zip"
     },
     "windows": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v337.zip",
-      "sha256": "51e329ca4bfb168791100241880032acb8af84e5ebc0b21786b38cc7607680de",
-      "upload_as": "familyfinance-windows-v337.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v338.zip",
+      "sha256": "b60697f33fc8c82c0589ce0fa2dfde2ec84c131d9a8aaae9ef06cdbeac317760",
+      "upload_as": "familyfinance-windows-v338.zip"
     }
   }
 }
