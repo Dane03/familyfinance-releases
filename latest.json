@@ -1,16 +1,16 @@
 {
-  "version": "v340",
-  "notes": "Datenbank: schnellere Zahlungslisten durch Indizes; keine festen Familiennamen mehr in der Kategorisierung (eure Kategorien bleiben unverändert).",
+  "version": "v341",
+  "notes": "Gehaltsabrechnungen: Übernehmen funktioniert wieder (war seit 10.10. still fehlgeschlagen), betroffene Abrechnung wird automatisch zugeordnet. Tägliche Sicherung jetzt direkt durch die App.",
   "platforms": {
     "mac": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v340.zip",
-      "sha256": "e7edf425ef1ec7849b5191473684bda99025b6b7cd996da09160d27d74ff585e",
-      "upload_as": "familyfinance-v340.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v341.zip",
+      "sha256": "fd6709a6bab2bd25570f334cdc7da4ed14f8d4b6f571b5785895fb16c3642e0a",
+      "upload_as": "familyfinance-v341.zip"
     },
     "windows": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v340.zip",
-      "sha256": "6de46c1273e8297c22f7c388b448d4a601ef54c648efe5ee7af2314d8694a8bc",
-      "upload_as": "familyfinance-windows-v340.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v341.zip",
+      "sha256": "d98f48e212a8816406f48ddef99486481a19dee672ed6301e81a7dbc7008758b",
+      "upload_as": "familyfinance-windows-v341.zip"
     }
   }
 }
