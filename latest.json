@@ -1,16 +1,16 @@
 {
-  "version": "v338",
-  "notes": "Sicherheit: Der QR-Code für die Authenticator-App wird direkt mitgeliefert – das Geheimnis steht nicht mehr in einer Web-Adresse.",
+  "version": "v340",
+  "notes": "Datenbank: schnellere Zahlungslisten durch Indizes; keine festen Familiennamen mehr in der Kategorisierung (eure Kategorien bleiben unverändert).",
   "platforms": {
     "mac": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v338.zip",
-      "sha256": "3cfde94425fea200421b75ef38c51a1881a1600625b9439f93f07492f4d0d6a3",
-      "upload_as": "familyfinance-v338.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v340.zip",
+      "sha256": "e7edf425ef1ec7849b5191473684bda99025b6b7cd996da09160d27d74ff585e",
+      "upload_as": "familyfinance-v340.zip"
     },
     "windows": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v338.zip",
-      "sha256": "b60697f33fc8c82c0589ce0fa2dfde2ec84c131d9a8aaae9ef06cdbeac317760",
-      "upload_as": "familyfinance-windows-v338.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v340.zip",
+      "sha256": "6de46c1273e8297c22f7c388b448d4a601ef54c648efe5ee7af2314d8694a8bc",
+      "upload_as": "familyfinance-windows-v340.zip"
     }
   }
 }
