@@ -1,16 +1,16 @@
 {
-  "version": "v343",
-  "notes": "Bei automatisch zugeordneten Bankumsätzen steht jetzt, warum (Merkmal, Betrag, Lerndatum).",
+  "version": "v344",
+  "notes": "Erster Start leichter: Karte Erste Schritte im Dashboard, leere Listen bieten gleich den passenden Knopf (Einnahme/Ausgabe hinzufügen, zum Bereich springen).",
   "platforms": {
     "mac": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v343.zip",
-      "sha256": "4bb8c0f69b34d4027f2814a7d95fb2890d5d277099f94aaff054898cd1484172",
-      "upload_as": "familyfinance-v343.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v344.zip",
+      "sha256": "d89a8819e050c961004a89d6953c3c0b9b02ebf2ed6fe2f34023a804696e995a",
+      "upload_as": "familyfinance-v344.zip"
     },
     "windows": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v343.zip",
-      "sha256": "9c76953fa9f314f7753e5709c3b3600c7e87d674c95703673609b1846dc94331",
-      "upload_as": "familyfinance-windows-v343.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v344.zip",
+      "sha256": "f2687631363887e8918328ce1b5f5cf99664fb00dfe113b05c464cc6614a730e",
+      "upload_as": "familyfinance-windows-v344.zip"
     }
   }
 }
