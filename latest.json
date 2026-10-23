@@ -1,16 +1,16 @@
 {
-  "version": "v348",
-  "notes": "Ausgaben: Erkannt aus Bankumsätzen und Nicht zugeordnete Bankumsätze stehen jetzt unter Beleg einlesen.",
+  "version": "v349",
+  "notes": "Vermögen und PV: Importe liegen jetzt wie bei Einnahmen/Ausgaben im eingeklappten Bereich Beleg einlesen bzw. Daten einlesen.",
   "platforms": {
     "mac": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v348.zip",
-      "sha256": "85d23de98a39156713852b7f7ed6715f85e228db7a2b7051bc080aa62213cc2a",
-      "upload_as": "familyfinance-v348.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v349.zip",
+      "sha256": "14bf3c5e336afc0886ecc95c32f40e58442ab9687a820561a59781399a621ab4",
+      "upload_as": "familyfinance-v349.zip"
     },
     "windows": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v348.zip",
-      "sha256": "d591ffbc87929079edd470eac77ada866b4afaf2263f4bf97ba7d244a556c684",
-      "upload_as": "familyfinance-windows-v348.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v349.zip",
+      "sha256": "10178c96d56e557fa06bd3d07afa36c848b402f851a5117965eed534dab32248",
+      "upload_as": "familyfinance-windows-v349.zip"
     }
   }
 }
