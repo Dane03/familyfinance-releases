@@ -1,16 +1,16 @@
 {
-  "version": "v346",
-  "notes": "Umsätze müssen nicht alle zugeordnet werden: Sammelkategorie Unkategorisiert (fließt nie in Zuordnungen ein), Knopf Alle übrigen ablegen, keine Mahnung mehr zu offenen Umsätzen. Aufklappbare Kopfzeilen sind jetzt als solche erkennbar.",
+  "version": "v347",
+  "notes": "Einnahmen und Ausgaben haben denselben aufklappbaren Bereich Beleg einlesen (Einzel-Upload, Sammelimport, Intelligenter Datei-Import) an derselben Stelle direkt unter der Liste.",
   "platforms": {
     "mac": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v346.zip",
-      "sha256": "686aecbfe2a732a6c2d67c67fb671bc3b0a86795bb566a328552fef3b4699a4f",
-      "upload_as": "familyfinance-v346.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v347.zip",
+      "sha256": "bb8cdc50dd41bf388834b743a8678c7aa00c634d41d1a8ed3f2ef1fe24cb2c44",
+      "upload_as": "familyfinance-v347.zip"
     },
     "windows": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v346.zip",
-      "sha256": "c158b5599e012276a3c1a8488bf87fc4bf0c23558a91671dbe7c9d20705197ce",
-      "upload_as": "familyfinance-windows-v346.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v347.zip",
+      "sha256": "d1ff871f0adaf70ac1305cc0e198644d45252f26fdfd9452ba8917b3b4c4e71f",
+      "upload_as": "familyfinance-windows-v347.zip"
     }
   }
 }
