@@ -1,16 +1,16 @@
 {
-  "version": "v344",
-  "notes": "Erster Start leichter: Karte Erste Schritte im Dashboard, leere Listen bieten gleich den passenden Knopf (Einnahme/Ausgabe hinzufügen, zum Bereich springen).",
+  "version": "v345",
+  "notes": "Monatsabschluss: Einspeisevergütung und andere unregelmäßige Einnahmen werden nicht mehr als fehlende Gehaltsabrechnung angemahnt.",
   "platforms": {
     "mac": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v344.zip",
-      "sha256": "d89a8819e050c961004a89d6953c3c0b9b02ebf2ed6fe2f34023a804696e995a",
-      "upload_as": "familyfinance-v344.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v345.zip",
+      "sha256": "a251880da57a7218a445425526402dcce8e5d7739c6bbc1575c81cdfb737ba82",
+      "upload_as": "familyfinance-v345.zip"
     },
     "windows": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v344.zip",
-      "sha256": "f2687631363887e8918328ce1b5f5cf99664fb00dfe113b05c464cc6614a730e",
-      "upload_as": "familyfinance-windows-v344.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v345.zip",
+      "sha256": "f5e66d9aa12a97d6dca6775e31a7bb8ae9c752837f4fe85908789f63c648710f",
+      "upload_as": "familyfinance-windows-v345.zip"
     }
   }
 }
