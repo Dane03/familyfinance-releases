@@ -1,16 +1,16 @@
 {
-  "version": "v347",
-  "notes": "Einnahmen und Ausgaben haben denselben aufklappbaren Bereich Beleg einlesen (Einzel-Upload, Sammelimport, Intelligenter Datei-Import) an derselben Stelle direkt unter der Liste.",
+  "version": "v348",
+  "notes": "Ausgaben: Erkannt aus Bankumsätzen und Nicht zugeordnete Bankumsätze stehen jetzt unter Beleg einlesen.",
   "platforms": {
     "mac": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v347.zip",
-      "sha256": "bb8cdc50dd41bf388834b743a8678c7aa00c634d41d1a8ed3f2ef1fe24cb2c44",
-      "upload_as": "familyfinance-v347.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v348.zip",
+      "sha256": "85d23de98a39156713852b7f7ed6715f85e228db7a2b7051bc080aa62213cc2a",
+      "upload_as": "familyfinance-v348.zip"
     },
     "windows": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v347.zip",
-      "sha256": "d1ff871f0adaf70ac1305cc0e198644d45252f26fdfd9452ba8917b3b4c4e71f",
-      "upload_as": "familyfinance-windows-v347.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v348.zip",
+      "sha256": "d591ffbc87929079edd470eac77ada866b4afaf2263f4bf97ba7d244a556c684",
+      "upload_as": "familyfinance-windows-v348.zip"
     }
   }
 }
