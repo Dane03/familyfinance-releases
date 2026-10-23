@@ -1,16 +1,16 @@
 {
-  "version": "v345",
-  "notes": "Monatsabschluss: Einspeisevergütung und andere unregelmäßige Einnahmen werden nicht mehr als fehlende Gehaltsabrechnung angemahnt.",
+  "version": "v346",
+  "notes": "Umsätze müssen nicht alle zugeordnet werden: Sammelkategorie Unkategorisiert (fließt nie in Zuordnungen ein), Knopf Alle übrigen ablegen, keine Mahnung mehr zu offenen Umsätzen. Aufklappbare Kopfzeilen sind jetzt als solche erkennbar.",
   "platforms": {
     "mac": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v345.zip",
-      "sha256": "a251880da57a7218a445425526402dcce8e5d7739c6bbc1575c81cdfb737ba82",
-      "upload_as": "familyfinance-v345.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v346.zip",
+      "sha256": "686aecbfe2a732a6c2d67c67fb671bc3b0a86795bb566a328552fef3b4699a4f",
+      "upload_as": "familyfinance-v346.zip"
     },
     "windows": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v345.zip",
-      "sha256": "f5e66d9aa12a97d6dca6775e31a7bb8ae9c752837f4fe85908789f63c648710f",
-      "upload_as": "familyfinance-windows-v345.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v346.zip",
+      "sha256": "c158b5599e012276a3c1a8488bf87fc4bf0c23558a91671dbe7c9d20705197ce",
+      "upload_as": "familyfinance-windows-v346.zip"
     }
   }
 }
