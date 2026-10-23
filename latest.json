@@ -1,16 +1,16 @@
 {
-  "version": "v342",
-  "notes": "Offene Bankumsätze lassen sich nach Empfänger sortieren (Sammelzuordnung, Alltag ohne Vertrag). Gehaltsabrechnungen werden bei eindeutiger Zuordnung sofort übernommen (mit Rückgängig). Monatsabschluss-Checkliste, Statuszeile für Bank/PV/Sicherung, Fehlermeldung bei jeder nicht gespeicherten Änderung, Import-Karten im Bereich Daten pflegen.",
+  "version": "v343",
+  "notes": "Bei automatisch zugeordneten Bankumsätzen steht jetzt, warum (Merkmal, Betrag, Lerndatum).",
   "platforms": {
     "mac": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v342.zip",
-      "sha256": "28a7c5625a9fd0571dbfc6f07c80303d671082ad8fe92d6b21c15692c60089c3",
-      "upload_as": "familyfinance-v342.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v343.zip",
+      "sha256": "4bb8c0f69b34d4027f2814a7d95fb2890d5d277099f94aaff054898cd1484172",
+      "upload_as": "familyfinance-v343.zip"
     },
     "windows": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v342.zip",
-      "sha256": "acdfdc3d69c45ed353987854681cbda0e95edebc9e1a4cd929e3fcc1190abd39",
-      "upload_as": "familyfinance-windows-v342.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v343.zip",
+      "sha256": "9c76953fa9f314f7753e5709c3b3600c7e87d674c95703673609b1846dc94331",
+      "upload_as": "familyfinance-windows-v343.zip"
     }
   }
 }
