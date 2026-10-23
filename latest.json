@@ -1,16 +1,16 @@
 {
-  "version": "v341",
-  "notes": "Gehaltsabrechnungen: Übernehmen funktioniert wieder (war seit 10.10. still fehlgeschlagen), betroffene Abrechnung wird automatisch zugeordnet. Tägliche Sicherung jetzt direkt durch die App.",
+  "version": "v342",
+  "notes": "Offene Bankumsätze lassen sich nach Empfänger sortieren (Sammelzuordnung, Alltag ohne Vertrag). Gehaltsabrechnungen werden bei eindeutiger Zuordnung sofort übernommen (mit Rückgängig). Monatsabschluss-Checkliste, Statuszeile für Bank/PV/Sicherung, Fehlermeldung bei jeder nicht gespeicherten Änderung, Import-Karten im Bereich Daten pflegen.",
   "platforms": {
     "mac": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v341.zip",
-      "sha256": "fd6709a6bab2bd25570f334cdc7da4ed14f8d4b6f571b5785895fb16c3642e0a",
-      "upload_as": "familyfinance-v341.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v342.zip",
+      "sha256": "28a7c5625a9fd0571dbfc6f07c80303d671082ad8fe92d6b21c15692c60089c3",
+      "upload_as": "familyfinance-v342.zip"
     },
     "windows": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v341.zip",
-      "sha256": "d98f48e212a8816406f48ddef99486481a19dee672ed6301e81a7dbc7008758b",
-      "upload_as": "familyfinance-windows-v341.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v342.zip",
+      "sha256": "acdfdc3d69c45ed353987854681cbda0e95edebc9e1a4cd929e3fcc1190abd39",
+      "upload_as": "familyfinance-windows-v342.zip"
     }
   }
 }
