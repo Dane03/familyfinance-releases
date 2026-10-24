@@ -1,16 +1,16 @@
 {
-  "version": "v350",
-  "notes": "Schnellerer Start: Die Prüfung auf Paket-Updates läuft nicht mehr bei jedem Seitenaufruf (10–20 s), sondern wird 15 Minuten zwischengespeichert. Windows: requirements.txt wird mit UTF-8 gelesen.",
+  "version": "v351",
+  "notes": "Sicherung und Passwort-Reset warten bei gleichzeitigem Schreiben bis zu 30 s statt sofort abzubrechen. Die Anmeldeseite prüft vor dem Login nur noch die App-Version (keine Paket-Prüfung).",
   "platforms": {
     "mac": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v350.zip",
-      "sha256": "b120f7c9d3e734241f244722d1b3c8fc510074e71a034fdb209e88c905b97f12",
-      "upload_as": "familyfinance-v350.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v351.zip",
+      "sha256": "004d3b9697e2758182640229a5d335b623dcd528419a2a36f9fd2c58e104c39a",
+      "upload_as": "familyfinance-v351.zip"
     },
     "windows": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v350.zip",
-      "sha256": "72d750c4a35473e2e8276fb355c3f54124c2b41321650f30367b70def59da08d",
-      "upload_as": "familyfinance-windows-v350.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v351.zip",
+      "sha256": "a3ba7e7971afbc6e0862f249c262f563eef6f2455ef1d0291ae1656149496411",
+      "upload_as": "familyfinance-windows-v351.zip"
     }
   }
 }
