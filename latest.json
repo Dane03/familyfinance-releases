@@ -1,16 +1,16 @@
 {
-  "version": "v351",
-  "notes": "Sicherung und Passwort-Reset warten bei gleichzeitigem Schreiben bis zu 30 s statt sofort abzubrechen. Die Anmeldeseite prüft vor dem Login nur noch die App-Version (keine Paket-Prüfung).",
+  "version": "v352",
+  "notes": "Status-Ampel neben der Build-Anzeige: ein Punkt zeigt auf einen Blick, ob Bank, PV und Sicherung aktuell sind; Tippen zeigt die Einzelheiten.",
   "platforms": {
     "mac": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v351.zip",
-      "sha256": "004d3b9697e2758182640229a5d335b623dcd528419a2a36f9fd2c58e104c39a",
-      "upload_as": "familyfinance-v351.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v352.zip",
+      "sha256": "92c24aa8d61ef91865a715d7f9e4b79eba21f8f9fbe011375468a8ddda3d9feb",
+      "upload_as": "familyfinance-v352.zip"
     },
     "windows": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v351.zip",
-      "sha256": "a3ba7e7971afbc6e0862f249c262f563eef6f2455ef1d0291ae1656149496411",
-      "upload_as": "familyfinance-windows-v351.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v352.zip",
+      "sha256": "69bd53c9a5b479bb21f804996c3d83def58fb3a647b6fb167eb70697a339b7c6",
+      "upload_as": "familyfinance-windows-v352.zip"
     }
   }
 }
