@@ -1,16 +1,16 @@
 {
-  "version": "v352",
-  "notes": "Status-Ampel neben der Build-Anzeige: ein Punkt zeigt auf einen Blick, ob Bank, PV und Sicherung aktuell sind; Tippen zeigt die Einzelheiten.",
+  "version": "v353",
+  "notes": "PV: Leere Charts bieten jetzt direkt den Knopf 'PV-Daten einlesen'. Windows-Anleitung ergänzt (Passwort vergessen, Updates).",
   "platforms": {
     "mac": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v352.zip",
-      "sha256": "92c24aa8d61ef91865a715d7f9e4b79eba21f8f9fbe011375468a8ddda3d9feb",
-      "upload_as": "familyfinance-v352.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v353.zip",
+      "sha256": "b814395a2b073076b2aa6d6c6016d82a7ed3c5057fb378f366e46c9dbd08431c",
+      "upload_as": "familyfinance-v353.zip"
     },
     "windows": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v352.zip",
-      "sha256": "69bd53c9a5b479bb21f804996c3d83def58fb3a647b6fb167eb70697a339b7c6",
-      "upload_as": "familyfinance-windows-v352.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v353.zip",
+      "sha256": "e354a74d9e87a0b914772825ff78a2caaf3998e8b0585f0718edf724302f3793",
+      "upload_as": "familyfinance-windows-v353.zip"
     }
   }
 }
