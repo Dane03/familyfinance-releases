@@ -1,16 +1,16 @@
 {
-  "version": "v353",
-  "notes": "PV: Leere Charts bieten jetzt direkt den Knopf 'PV-Daten einlesen'. Windows-Anleitung ergänzt (Passwort vergessen, Updates).",
+  "version": "v354",
+  "notes": "iPhone: Seitenende und Meldungen liegen nicht mehr unter dem Home-Balken.",
   "platforms": {
     "mac": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v353.zip",
-      "sha256": "b814395a2b073076b2aa6d6c6016d82a7ed3c5057fb378f366e46c9dbd08431c",
-      "upload_as": "familyfinance-v353.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v354.zip",
+      "sha256": "b1aea53fe008dcf3689db705db12e5f08ffe6d743e6b5e12807eb9952e3ee6ce",
+      "upload_as": "familyfinance-v354.zip"
     },
     "windows": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v353.zip",
-      "sha256": "e354a74d9e87a0b914772825ff78a2caaf3998e8b0585f0718edf724302f3793",
-      "upload_as": "familyfinance-windows-v353.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v354.zip",
+      "sha256": "71ae09142ffbc6f1d50ed1aa6bb3528344e84e69ad4c95d1f9143091667d56d0",
+      "upload_as": "familyfinance-windows-v354.zip"
     }
   }
 }
