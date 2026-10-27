@@ -1,16 +1,16 @@
 {
-  "version": "v354",
-  "notes": "iPhone: Seitenende und Meldungen liegen nicht mehr unter dem Home-Balken.",
+  "version": "v355",
+  "notes": "iPhone quer: Inhalte nicht mehr unter Notch/Rand; Prognose im Schaltjahr-Februar korrigiert; Rentenkonto-Löschfrage nennt Anzahl Dokumente.",
   "platforms": {
     "mac": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v354.zip",
-      "sha256": "b1aea53fe008dcf3689db705db12e5f08ffe6d743e6b5e12807eb9952e3ee6ce",
-      "upload_as": "familyfinance-v354.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v355.zip",
+      "sha256": "2a043600d6ed41d89c1a09d60ceed43843f871c49fedee0a3ad35d3cbbdd1626",
+      "upload_as": "familyfinance-v355.zip"
     },
     "windows": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v354.zip",
-      "sha256": "71ae09142ffbc6f1d50ed1aa6bb3528344e84e69ad4c95d1f9143091667d56d0",
-      "upload_as": "familyfinance-windows-v354.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v355.zip",
+      "sha256": "06af663435d78f27031b436e2e676689ead0ba9b4993996f91ef620069bd2442",
+      "upload_as": "familyfinance-windows-v355.zip"
     }
   }
 }
