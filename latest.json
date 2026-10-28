@@ -1,16 +1,16 @@
 {
-  "version": "v355",
-  "notes": "iPhone quer: Inhalte nicht mehr unter Notch/Rand; Prognose im Schaltjahr-Februar korrigiert; Rentenkonto-Löschfrage nennt Anzahl Dokumente.",
+  "version": "v356",
+  "notes": "Sicherheit: App-Update nie doppelt gleichzeitig, Download mit Größengrenze; Upload-Dateinamen bereinigt; Finanzdaten nicht mehr im Browser-Zwischenspeicher.",
   "platforms": {
     "mac": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v355.zip",
-      "sha256": "2a043600d6ed41d89c1a09d60ceed43843f871c49fedee0a3ad35d3cbbdd1626",
-      "upload_as": "familyfinance-v355.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v356.zip",
+      "sha256": "11c8bc63fda07ee821c738f5913c754baafd1e949cfdf95c0feb45a0becb8a4c",
+      "upload_as": "familyfinance-v356.zip"
     },
     "windows": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v355.zip",
-      "sha256": "06af663435d78f27031b436e2e676689ead0ba9b4993996f91ef620069bd2442",
-      "upload_as": "familyfinance-windows-v355.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v356.zip",
+      "sha256": "2278ba30e80f110ecd3cf7ad86629c0554788c198c0b2a8ded79c1bd5513e1b0",
+      "upload_as": "familyfinance-windows-v356.zip"
     }
   }
 }
