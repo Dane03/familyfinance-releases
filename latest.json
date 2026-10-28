@@ -1,16 +1,16 @@
 {
-  "version": "v356",
-  "notes": "Sicherheit: App-Update nie doppelt gleichzeitig, Download mit Größengrenze; Upload-Dateinamen bereinigt; Finanzdaten nicht mehr im Browser-Zwischenspeicher.",
+  "version": "v357",
+  "notes": "PV-Tageswert nach Mitternacht korrigiert (Werte vom Vortag werden nicht mehr übernommen); Monatsabschluss zeigt den laufenden Monat ab dem 20. und den Vormonat nur, solange etwas offen ist.",
   "platforms": {
     "mac": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v356.zip",
-      "sha256": "11c8bc63fda07ee821c738f5913c754baafd1e949cfdf95c0feb45a0becb8a4c",
-      "upload_as": "familyfinance-v356.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v357.zip",
+      "sha256": "3c422d53e473b32b1c3ec7b69750d40356cc7d4a5eb8f1345511508b636932a6",
+      "upload_as": "familyfinance-v357.zip"
     },
     "windows": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v356.zip",
-      "sha256": "2278ba30e80f110ecd3cf7ad86629c0554788c198c0b2a8ded79c1bd5513e1b0",
-      "upload_as": "familyfinance-windows-v356.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v357.zip",
+      "sha256": "9dba95eef6fc41f2605a7c747dfc6a4d18685cbbb29bcbd3571f51f5269ec11e",
+      "upload_as": "familyfinance-windows-v357.zip"
     }
   }
 }
