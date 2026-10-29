@@ -1,16 +1,16 @@
 {
-  "version": "v364",
-  "notes": "Sungrow: Hausverbrauch inkl. Batterie wird auch morgens übernommen; der Verbindungstest nennt den Grund, falls gerechnet wird.",
+  "version": "v365",
+  "notes": "Sungrow „Verlauf korrigieren“: probiert alle Abrufwege und meldet klar, wenn Sungrow den Verlauf für den App-Key nicht freigibt.",
   "platforms": {
     "mac": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v364.zip",
-      "sha256": "096d1d1e5d6d037311881886e02ac1e4ccdb74532686f291cea44224e027de21",
-      "upload_as": "familyfinance-v364.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v365.zip",
+      "sha256": "c4ccffc4f3700433765cca1c76bc3d76274a6a3c770219bd098f07372b1a8ea7",
+      "upload_as": "familyfinance-v365.zip"
     },
     "windows": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v364.zip",
-      "sha256": "8e51258682b8622a563a95c5c85bd895ab0f53986f15d7c9ed62b0b4c5e93bf3",
-      "upload_as": "familyfinance-windows-v364.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v365.zip",
+      "sha256": "c1f83d33555cce8e77bf37dc8126363d61988e7f8a01b1cd8ee692bf30881175",
+      "upload_as": "familyfinance-windows-v365.zip"
     }
   }
 }
