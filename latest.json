@@ -1,16 +1,16 @@
 {
-  "version": "v369",
-  "notes": "Aufräumen: doppelte Gehaltsabrechnungs-Einträge ohne Datei werden jetzt auch ohne zugeordnete Einnahme erkannt.",
+  "version": "v370",
+  "notes": "Intelligenter Import: Ziel „Einzelausgaben“ entfernt (wurde nirgends angezeigt). Prüfskript findet unsichtbare Einträge.",
   "platforms": {
     "mac": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v369.zip",
-      "sha256": "1cbc1cddfcffb6470b347d35673ac9b9ebd866500d1d2f4396a3e5ef8b09e36e",
-      "upload_as": "familyfinance-v369.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v370.zip",
+      "sha256": "176f6c3d46be59907cf11636f55061c4d4829400a4576cf404a737302c6c5063",
+      "upload_as": "familyfinance-v370.zip"
     },
     "windows": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v369.zip",
-      "sha256": "00d1ddae83c1b88eef476f484d10e9bb8e9fd95ead229cf7369ebc5876a50a97",
-      "upload_as": "familyfinance-windows-v369.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v370.zip",
+      "sha256": "d462459b4b944258597041eabeac6608271f91765447355bc12fcac859674785",
+      "upload_as": "familyfinance-windows-v370.zip"
     }
   }
 }
