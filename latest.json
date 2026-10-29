@@ -1,16 +1,16 @@
 {
-  "version": "v357",
-  "notes": "PV-Tageswert nach Mitternacht korrigiert (Werte vom Vortag werden nicht mehr übernommen); Monatsabschluss zeigt den laufenden Monat ab dem 20. und den Vormonat nur, solange etwas offen ist.",
+  "version": "v358",
+  "notes": "Wartungs-Release: Beispielname in einem Code-Kommentar anonymisiert, Datenmodell-Prüfung ohne Befund.",
   "platforms": {
     "mac": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v357.zip",
-      "sha256": "3c422d53e473b32b1c3ec7b69750d40356cc7d4a5eb8f1345511508b636932a6",
-      "upload_as": "familyfinance-v357.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v358.zip",
+      "sha256": "2aec1b706aaa00a5f62a55942bae3d6dbe96dcfbc1262126c3e433fe1d3df332",
+      "upload_as": "familyfinance-v358.zip"
     },
     "windows": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v357.zip",
-      "sha256": "9dba95eef6fc41f2605a7c747dfc6a4d18685cbbb29bcbd3571f51f5269ec11e",
-      "upload_as": "familyfinance-windows-v357.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v358.zip",
+      "sha256": "14ebf6afae0dbedb070b0fc8bbae9f386e34f65614564b2c88ee2b58a8294aa2",
+      "upload_as": "familyfinance-windows-v358.zip"
     }
   }
 }
