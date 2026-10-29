@@ -1,16 +1,16 @@
 {
-  "version": "v361",
-  "notes": "Sicherer: App-Updates laden nur noch von GitHub, auch bei Weiterleitungen; Status der externen Sicherung öffnet schneller.",
+  "version": "v362",
+  "notes": "Sicherer: Die Sungrow-Anmeldung (iSolarCloud) wird nur noch angenommen, wenn sie in der App gestartet wurde.",
   "platforms": {
     "mac": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v361.zip",
-      "sha256": "394e8a8ba4b8d4ce93f37c777cd8b841eec98af167b7c9983adec3ac825be945",
-      "upload_as": "familyfinance-v361.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v362.zip",
+      "sha256": "28273fa38d6adc7e5f8f09050e0755f95b55df4ca0283565b659cc0edd1ee5ce",
+      "upload_as": "familyfinance-v362.zip"
     },
     "windows": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v361.zip",
-      "sha256": "14b59bc406527a04ae6a61d08187fc647dd2752286e509a7cffcfeb684752deb",
-      "upload_as": "familyfinance-windows-v361.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v362.zip",
+      "sha256": "961caa273e83d044f8d3ed8a555afcd4d025164a158afd6707c49ad70acaa542",
+      "upload_as": "familyfinance-windows-v362.zip"
     }
   }
 }
