@@ -1,16 +1,16 @@
 {
-  "version": "v358",
-  "notes": "Wartungs-Release: Beispielname in einem Code-Kommentar anonymisiert, Datenmodell-Prüfung ohne Befund.",
+  "version": "v359",
+  "notes": "Stabiler bei Fehlern: Datenbank bleibt nicht mehr gesperrt, wenn beim Speichern von Vermögen, Gehaltsabrechnung oder Bank-Zuordnung etwas schiefgeht; ungültiger Finanzierungsvertrag wird klar gemeldet.",
   "platforms": {
     "mac": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v358.zip",
-      "sha256": "2aec1b706aaa00a5f62a55942bae3d6dbe96dcfbc1262126c3e433fe1d3df332",
-      "upload_as": "familyfinance-v358.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v359.zip",
+      "sha256": "e7f9aee69bb8b152ff9543c3fae2f5258a4e9e5a18f55e6901d799d64d351497",
+      "upload_as": "familyfinance-v359.zip"
     },
     "windows": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v358.zip",
-      "sha256": "14ebf6afae0dbedb070b0fc8bbae9f386e34f65614564b2c88ee2b58a8294aa2",
-      "upload_as": "familyfinance-windows-v358.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v359.zip",
+      "sha256": "05d024fcfae5722827938cde394fc8930a826b7598b0110061a51e6bb32b42d8",
+      "upload_as": "familyfinance-windows-v359.zip"
     }
   }
 }
