@@ -1,16 +1,16 @@
 {
-  "version": "v362",
-  "notes": "Sicherer: Die Sungrow-Anmeldung (iSolarCloud) wird nur noch angenommen, wenn sie in der App gestartet wurde.",
+  "version": "v363",
+  "notes": "Neue Versionen werden sofort angezeigt (ohne 5-Minuten-Verzögerung); Aufräumen unbestätigter Belege löscht keine noch genutzte Datei mehr.",
   "platforms": {
     "mac": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v362.zip",
-      "sha256": "28273fa38d6adc7e5f8f09050e0755f95b55df4ca0283565b659cc0edd1ee5ce",
-      "upload_as": "familyfinance-v362.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v363.zip",
+      "sha256": "d59d293ace82c7c79e49be01c9e58148406f9ca78e0ed68d68e02525877f53ee",
+      "upload_as": "familyfinance-v363.zip"
     },
     "windows": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v362.zip",
-      "sha256": "961caa273e83d044f8d3ed8a555afcd4d025164a158afd6707c49ad70acaa542",
-      "upload_as": "familyfinance-windows-v362.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v363.zip",
+      "sha256": "ed654aa2b6af1f5344a6e161db305a7fff20820d6cd32d482c412933698a0bc7",
+      "upload_as": "familyfinance-windows-v363.zip"
     }
   }
 }
