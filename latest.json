@@ -1,16 +1,16 @@
 {
-  "version": "v360",
-  "notes": "Stabiler: Alle Datenbank-Verbindungen werden auch bei Fehlern sauber geschlossen (keine hängenden Sperren mehr); Beleg-Zuordnung zu einem Vertrag ließ eine Verbindung offen – behoben.",
+  "version": "v361",
+  "notes": "Sicherer: App-Updates laden nur noch von GitHub, auch bei Weiterleitungen; Status der externen Sicherung öffnet schneller.",
   "platforms": {
     "mac": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v360.zip",
-      "sha256": "045fcb16305aa42f1ba06f612cb16990c13c87b7abf64937bf42a85bd35f0f17",
-      "upload_as": "familyfinance-v360.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v361.zip",
+      "sha256": "394e8a8ba4b8d4ce93f37c777cd8b841eec98af167b7c9983adec3ac825be945",
+      "upload_as": "familyfinance-v361.zip"
     },
     "windows": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v360.zip",
-      "sha256": "f49d01c390755f4ce3ff8f36895c0ce808552693c05c55c25ce77396da133ef4",
-      "upload_as": "familyfinance-windows-v360.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v361.zip",
+      "sha256": "14b59bc406527a04ae6a61d08187fc647dd2752286e509a7cffcfeb684752deb",
+      "upload_as": "familyfinance-windows-v361.zip"
     }
   }
 }
