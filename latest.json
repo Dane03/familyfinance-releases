@@ -1,16 +1,16 @@
 {
-  "version": "v365",
-  "notes": "Sungrow „Verlauf korrigieren“: probiert alle Abrufwege und meldet klar, wenn Sungrow den Verlauf für den App-Key nicht freigibt.",
+  "version": "v366",
+  "notes": "Reparatur: Kontoauszüge, die im Ordner eines Vermögenswerts lagen, aber in der App fehlten, werden einmalig wieder zugeordnet.",
   "platforms": {
     "mac": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v365.zip",
-      "sha256": "c4ccffc4f3700433765cca1c76bc3d76274a6a3c770219bd098f07372b1a8ea7",
-      "upload_as": "familyfinance-v365.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v366.zip",
+      "sha256": "316df9bcf132bc4a14b45c68fdbd2ec7842f9bf0f93df9e7b1033c1d85e8240a",
+      "upload_as": "familyfinance-v366.zip"
     },
     "windows": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v365.zip",
-      "sha256": "c1f83d33555cce8e77bf37dc8126363d61988e7f8a01b1cd8ee692bf30881175",
-      "upload_as": "familyfinance-windows-v365.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v366.zip",
+      "sha256": "69a77374fcc174dcdb84f7b71a226b231b0f3b707996b3448c43b895dda6b4ab",
+      "upload_as": "familyfinance-windows-v366.zip"
     }
   }
 }
