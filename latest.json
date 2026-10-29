@@ -1,16 +1,16 @@
 {
-  "version": "v368",
-  "notes": "Aufräumen: doppelte Gehaltsabrechnungs-Einträge ohne Datei werden entfernt, wenn dieselbe Abrechnung mit Datei vorhanden ist.",
+  "version": "v369",
+  "notes": "Aufräumen: doppelte Gehaltsabrechnungs-Einträge ohne Datei werden jetzt auch ohne zugeordnete Einnahme erkannt.",
   "platforms": {
     "mac": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v368.zip",
-      "sha256": "f373dfa510a7e479d3826474f93b7dd8c378a05a56dde2bff89fb39d4ad9badc",
-      "upload_as": "familyfinance-v368.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v369.zip",
+      "sha256": "1cbc1cddfcffb6470b347d35673ac9b9ebd866500d1d2f4396a3e5ef8b09e36e",
+      "upload_as": "familyfinance-v369.zip"
     },
     "windows": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v368.zip",
-      "sha256": "c8f34600a7c1b57c6ccef1ae3f3a8beada376d0ccc0839601876b629db2c8859",
-      "upload_as": "familyfinance-windows-v368.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v369.zip",
+      "sha256": "00d1ddae83c1b88eef476f484d10e9bb8e9fd95ead229cf7369ebc5876a50a97",
+      "upload_as": "familyfinance-windows-v369.zip"
     }
   }
 }
