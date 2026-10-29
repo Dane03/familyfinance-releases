@@ -1,16 +1,16 @@
 {
-  "version": "v367",
-  "notes": "Passwortgeschützte PDFs (z. B. Gehaltsabrechnungen) lassen sich wieder öffnen; Kontoauszüge eines früher gelöschten Kontos bekommen einen eigenen Eintrag.",
+  "version": "v368",
+  "notes": "Aufräumen: doppelte Gehaltsabrechnungs-Einträge ohne Datei werden entfernt, wenn dieselbe Abrechnung mit Datei vorhanden ist.",
   "platforms": {
     "mac": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v367.zip",
-      "sha256": "2f676a4ab4f6f92d46f067c1be78c51e811594e6e7d8f0bdcb8b1a46bdba2e8f",
-      "upload_as": "familyfinance-v367.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v368.zip",
+      "sha256": "f373dfa510a7e479d3826474f93b7dd8c378a05a56dde2bff89fb39d4ad9badc",
+      "upload_as": "familyfinance-v368.zip"
     },
     "windows": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v367.zip",
-      "sha256": "2fb6d7fdeff3757f215ff0138ed0d38374699e781fcfc4c961ab4bc258fd8e4c",
-      "upload_as": "familyfinance-windows-v367.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v368.zip",
+      "sha256": "c8f34600a7c1b57c6ccef1ae3f3a8beada376d0ccc0839601876b629db2c8859",
+      "upload_as": "familyfinance-windows-v368.zip"
     }
   }
 }
