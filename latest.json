@@ -1,16 +1,16 @@
 {
-  "version": "v366",
-  "notes": "Reparatur: Kontoauszüge, die im Ordner eines Vermögenswerts lagen, aber in der App fehlten, werden einmalig wieder zugeordnet.",
+  "version": "v367",
+  "notes": "Passwortgeschützte PDFs (z. B. Gehaltsabrechnungen) lassen sich wieder öffnen; Kontoauszüge eines früher gelöschten Kontos bekommen einen eigenen Eintrag.",
   "platforms": {
     "mac": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v366.zip",
-      "sha256": "316df9bcf132bc4a14b45c68fdbd2ec7842f9bf0f93df9e7b1033c1d85e8240a",
-      "upload_as": "familyfinance-v366.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v367.zip",
+      "sha256": "2f676a4ab4f6f92d46f067c1be78c51e811594e6e7d8f0bdcb8b1a46bdba2e8f",
+      "upload_as": "familyfinance-v367.zip"
     },
     "windows": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v366.zip",
-      "sha256": "69a77374fcc174dcdb84f7b71a226b231b0f3b707996b3448c43b895dda6b4ab",
-      "upload_as": "familyfinance-windows-v366.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v367.zip",
+      "sha256": "2fb6d7fdeff3757f215ff0138ed0d38374699e781fcfc4c961ab4bc258fd8e4c",
+      "upload_as": "familyfinance-windows-v367.zip"
     }
   }
 }
