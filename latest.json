@@ -1,16 +1,16 @@
 {
-  "version": "v363",
-  "notes": "Neue Versionen werden sofort angezeigt (ohne 5-Minuten-Verzögerung); Aufräumen unbestätigter Belege löscht keine noch genutzte Datei mehr.",
+  "version": "v364",
+  "notes": "Sungrow: Hausverbrauch inkl. Batterie wird auch morgens übernommen; der Verbindungstest nennt den Grund, falls gerechnet wird.",
   "platforms": {
     "mac": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v363.zip",
-      "sha256": "d59d293ace82c7c79e49be01c9e58148406f9ca78e0ed68d68e02525877f53ee",
-      "upload_as": "familyfinance-v363.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v364.zip",
+      "sha256": "096d1d1e5d6d037311881886e02ac1e4ccdb74532686f291cea44224e027de21",
+      "upload_as": "familyfinance-v364.zip"
     },
     "windows": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v363.zip",
-      "sha256": "ed654aa2b6af1f5344a6e161db305a7fff20820d6cd32d482c412933698a0bc7",
-      "upload_as": "familyfinance-windows-v363.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v364.zip",
+      "sha256": "8e51258682b8622a563a95c5c85bd895ab0f53986f15d7c9ed62b0b4c5e93bf3",
+      "upload_as": "familyfinance-windows-v364.zip"
     }
   }
 }
