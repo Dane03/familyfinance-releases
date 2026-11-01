@@ -1,16 +1,16 @@
 {
-  "version": "v370",
-  "notes": "Intelligenter Import: Ziel „Einzelausgaben“ entfernt (wurde nirgends angezeigt). Prüfskript findet unsichtbare Einträge.",
+  "version": "v371",
+  "notes": "Bank: Lastschriften gleicher Gläubiger und gleicher Betrag (z. B. Schulessen je Kind) werden über die Mandatsreferenz unterschieden (BBBank-Schreibweise MREF:/CRED:).",
   "platforms": {
     "mac": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v370.zip",
-      "sha256": "176f6c3d46be59907cf11636f55061c4d4829400a4576cf404a737302c6c5063",
-      "upload_as": "familyfinance-v370.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v371.zip",
+      "sha256": "25e30d3242ae5c73f23788604cc6ca38e6612ad0ae71ef7d2bad107622768831",
+      "upload_as": "familyfinance-v371.zip"
     },
     "windows": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v370.zip",
-      "sha256": "d462459b4b944258597041eabeac6608271f91765447355bc12fcac859674785",
-      "upload_as": "familyfinance-windows-v370.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v371.zip",
+      "sha256": "5ccf560f7b09f5abde4952fb2fb11464b400f3df2478177c331e5fd2acc5d0d7",
+      "upload_as": "familyfinance-windows-v371.zip"
     }
   }
 }
