@@ -1,16 +1,16 @@
 {
-  "version": "v372",
-  "notes": "Vermögen: neues Trendsignal für ein Core-Satellite-Depot – monatliches Signal Aktien/Geldmarkt mit Sparplan- und Umschicht-Vorschlag (inkl. geschätzter ING-Gebühren), Hinweis ganz vorn im Dashboard. Depotpositionen jetzt per FinTS, optionaler Kursabruf per ISIN (justETF, täglich 0:00).",
+  "version": "v373",
+  "notes": "Chatbot: kennt Kontostände wieder zuverlässig (Tagesgeld usw. mit Stand-Datum), kompakterer Kontext, rechnet Szenarien Schritt für Schritt.",
   "platforms": {
     "mac": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v372.zip",
-      "sha256": "31d4469b43f14356b4810a360429ec20084bd485f5e6b19030b143e99a38d465",
-      "upload_as": "familyfinance-v372.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v373.zip",
+      "sha256": "376d7c854bb3771cdf3239d95f10e1a2259ba0ce47993a551d4cc5d5a37c75ea",
+      "upload_as": "familyfinance-v373.zip"
     },
     "windows": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v372.zip",
-      "sha256": "b78a0716261530386c7e63b6e4cd9910e5a8da1fc18325e5d80a024e53ab40bf",
-      "upload_as": "familyfinance-windows-v372.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v373.zip",
+      "sha256": "cbe692f84398667b8de9ff5a104946c957ebe0ef2a9b3ef6ea2e113071eb1d7f",
+      "upload_as": "familyfinance-windows-v373.zip"
     }
   }
 }
