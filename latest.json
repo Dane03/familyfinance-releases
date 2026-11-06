@@ -1,16 +1,16 @@
 {
-  "version": "v371",
-  "notes": "Bank: Lastschriften gleicher Gläubiger und gleicher Betrag (z. B. Schulessen je Kind) werden über die Mandatsreferenz unterschieden (BBBank-Schreibweise MREF:/CRED:).",
+  "version": "v372",
+  "notes": "Vermögen: neues Trendsignal für ein Core-Satellite-Depot – monatliches Signal Aktien/Geldmarkt mit Sparplan- und Umschicht-Vorschlag (inkl. geschätzter ING-Gebühren), Hinweis ganz vorn im Dashboard. Depotpositionen jetzt per FinTS, optionaler Kursabruf per ISIN (justETF, täglich 0:00).",
   "platforms": {
     "mac": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v371.zip",
-      "sha256": "25e30d3242ae5c73f23788604cc6ca38e6612ad0ae71ef7d2bad107622768831",
-      "upload_as": "familyfinance-v371.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v372.zip",
+      "sha256": "31d4469b43f14356b4810a360429ec20084bd485f5e6b19030b143e99a38d465",
+      "upload_as": "familyfinance-v372.zip"
     },
     "windows": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v371.zip",
-      "sha256": "5ccf560f7b09f5abde4952fb2fb11464b400f3df2478177c331e5fd2acc5d0d7",
-      "upload_as": "familyfinance-windows-v371.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v372.zip",
+      "sha256": "b78a0716261530386c7e63b6e4cd9910e5a8da1fc18325e5d80a024e53ab40bf",
+      "upload_as": "familyfinance-windows-v372.zip"
     }
   }
 }
