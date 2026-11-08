@@ -1,16 +1,16 @@
 {
-  "version": "v373",
-  "notes": "Chatbot: kennt Kontostände wieder zuverlässig (Tagesgeld usw. mit Stand-Datum), kompakterer Kontext, rechnet Szenarien Schritt für Schritt.",
+  "version": "v374",
+  "notes": "UX-Feinschliff: einheitliche Aufklapp-Pfeile, Pflicht-/optional-Kennzeichnung in Formularen, Geburtsdatum als Tag/Monat/Jahr, Beleg-Knopf erklärt, was fehlt.",
   "platforms": {
     "mac": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v373.zip",
-      "sha256": "376d7c854bb3771cdf3239d95f10e1a2259ba0ce47993a551d4cc5d5a37c75ea",
-      "upload_as": "familyfinance-v373.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-v374.zip",
+      "sha256": "b8a24b332b20cc849f5916be17a1a51340b3d5a38f7b8b1b584f693c309efa20",
+      "upload_as": "familyfinance-v374.zip"
     },
     "windows": {
-      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v373.zip",
-      "sha256": "cbe692f84398667b8de9ff5a104946c957ebe0ef2a9b3ef6ea2e113071eb1d7f",
-      "upload_as": "familyfinance-windows-v373.zip"
+      "download_url": "https://raw.githubusercontent.com/Dane03/familyfinance-releases/main/familyfinance-windows-v374.zip",
+      "sha256": "7544f013f61445ec299e0b539f6f27ebc0b0d6053ff528f27fc78f99e042efee",
+      "upload_as": "familyfinance-windows-v374.zip"
     }
   }
 }
